@@ -1,5 +1,4 @@
- {
-  [
+ [
     {
       "closeTime" : "23:59",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -7718,5 +7717,4 @@
       "state" : "1",
       "releaseDate" : ""
     }
-  ]
-}
+ ]
