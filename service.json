@@ -8,7 +8,7 @@
       "dropFlag" : "N",
       "lat" : "35.0974088103159",
       "name" : "경동오토바이[경동오토바이]",
-      "serialNumber" : "101703",
+      "serialNumber" : "123101703",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "부산광역시 사하구 괴정로 217 (괴정동)"
     },
@@ -20,7 +20,7 @@
       "dropFlag" : "N",
       "lat" : "35.8314316755161",
       "name" : "경산 고샵[닷스테이션]",
-      "serialNumber" : "101730",
+      "serialNumber" : "123101730",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "경상북도 경산시 경산로 263 (중산동) 1층 3호"
     },
@@ -32,7 +32,7 @@
       "dropFlag" : "N",
       "lat" : "35.1511554124526",
       "name" : "광주 광남모터스 고샵[광남모터스]",
-      "serialNumber" : "101950",
+      "serialNumber" : "123101950",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "광주광역시 광산구 금봉로74번길 13 (소촌동)"
     },
@@ -44,7 +44,7 @@
       "dropFlag" : "N",
       "lat" : "35.1359834510961",
       "name" : "광주 닷남구점 고샵[닷스테이션 광주남구점]",
-      "serialNumber" : "101121",
+      "serialNumber" : "123101121",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "광주광역시 남구 독립로 25-1 (백운동) 1층"
     },
@@ -56,7 +56,7 @@
       "dropFlag" : "N",
       "lat" : "35.1449298375957",
       "name" : "광주 닷서구점 고샵[닷스테이션 광주서구점]",
-      "serialNumber" : "101435",
+      "serialNumber" : "123101435",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "광주광역시 서구 화정로49번길 3 (쌍촌동) 1층"
     },
@@ -68,7 +68,7 @@
       "dropFlag" : "N",
       "lat" : "35.1796160993741",
       "name" : "광주 도도모터스 고샵[도도모터스]",
-      "serialNumber" : "101822",
+      "serialNumber" : "123101822",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "광주광역시 북구 중문로84번길 41 (문흥동) 1층 1호 1층"
     },
@@ -80,7 +80,7 @@
       "dropFlag" : "N",
       "lat" : "35.1793521966454",
       "name" : "광주 디에스 고샵[디에스모빌리티]",
-      "serialNumber" : "102026",
+      "serialNumber" : "123102026",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "광주광역시 광산구 사암로383번길 39 1층 107호(하남동)"
     },
@@ -92,7 +92,7 @@
       "dropFlag" : "N",
       "lat" : "35.1433751891428",
       "name" : "광주 민오토바이 고샵[민오토바이]",
-      "serialNumber" : "102025",
+      "serialNumber" : "123102025",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "광주광역시 남구 월산로 58 (월산동)"
     },
@@ -104,7 +104,7 @@
       "dropFlag" : "N",
       "lat" : "35.1689334573977",
       "name" : "광주 바이크세상 고샵[바이크세상]",
-      "serialNumber" : "100155",
+      "serialNumber" : "123100155",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "address" : "광주광역시 북구 서방로 172 "
     },
@@ -114,7 +114,7 @@
       "telNo" : "010-4255-1496",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101953",
+      "serialNumber" : "123101953",
       "lat" : "35.1741722435074",
       "lon" : "126.895396451156",
       "name" : "광주 세븐모터스 고샵[세븐모터스]",
@@ -126,7 +126,7 @@
       "telNo" : "010-4059-9442",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "100154",
+      "serialNumber" : "123100154",
       "lat" : "35.1526962057164",
       "lon" : "126.918793783418",
       "name" : "광주 스토리 고샵[바이크스토리]",
@@ -138,7 +138,7 @@
       "telNo" : "010-4059-9442",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "100154",
+      "serialNumber" : "123100154",
       "lat" : "35.1526962057164",
       "lon" : "126.918793783418",
       "name" : "광주 스토리 고샵[바이크스토리]",
@@ -150,7 +150,7 @@
       "telNo" : "010-8621-7162",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101821",
+      "serialNumber" : "123101821",
       "lat" : "35.1511179415301",
       "lon" : "126.928705684392",
       "name" : "광주 승하 고샵[승하오토바이]",
@@ -162,7 +162,7 @@
       "telNo" : "010-9179-3782",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101947",
+      "serialNumber" : "123101947",
       "lat" : "35.158412153894",
       "lon" : "126.927717122156",
       "name" : "광주 에어리얼스튜디오 고샵[에어리얼 스튜디오 (Aerial Studio)]",
@@ -174,7 +174,7 @@
       "telNo" : "010-8584-8285",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101886",
+      "serialNumber" : "123101886",
       "lat" : "35.1998282340875",
       "lon" : "126.875045170944",
       "name" : "광주 으뜸 고샵[으뜸오토바이]",
@@ -186,7 +186,7 @@
       "telNo" : "010-4600-9565",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101881",
+      "serialNumber" : "123101881",
       "lat" : "35.1463213437122",
       "lon" : "126.856647541021",
       "name" : "광주 타이거 고샵[타이거모터스]",
@@ -198,7 +198,7 @@
       "telNo" : "010-3646-5125",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101961",
+      "serialNumber" : "123101961",
       "lat" : "35.1519078544118",
       "lon" : "126.872336735549",
       "name" : "광주 하나모터스 고샵[하나모터스]",
@@ -210,7 +210,7 @@
       "telNo" : "010-6333-8918",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101791",
+      "serialNumber" : "123101791",
       "lat" : "35.1862289947027",
       "lon" : "126.836604494816",
       "name" : "광주광산수고샵[수바이크]",
@@ -222,7 +222,7 @@
       "telNo" : "010-5612-1346",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101788",
+      "serialNumber" : "123101788",
       "lat" : "35.211575850285",
       "lon" : "126.839441175549",
       "name" : "광주광산첨단고샵[첨단오토바이]",
@@ -234,7 +234,7 @@
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101739",
+      "serialNumber" : "123101739",
       "lat" : "35.1728330846803",
       "lon" : "126.91677202785",
       "name" : "광주북구미성고샵[미성오토바이]",
@@ -246,7 +246,7 @@
       "telNo" : "010-3607-8184",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "100156",
+      "serialNumber" : "123100156",
       "lat" : "35.1941571324659",
       "lon" : "126.904036725344",
       "name" : "광주북구질주고샵[질주바이크나라]",
@@ -258,7 +258,7 @@
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101729",
+      "serialNumber" : "123101729",
       "lat" : "37.3688380478779",
       "lon" : "126.944197376048",
       "name" : "군포 닷스테이션 고샵[닷스테이션 군포점]",
@@ -270,7 +270,7 @@
       "telNo" : "010-5633-5756",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
-      "serialNumber" : "101712",
+      "serialNumber" : "123101712",
       "lat" : "35.2243643270224",
       "lon" : "129.092576284362",
       "name" : "금정 디씨즈 바이크[금정 디씨즈 바이크]",
@@ -282,7 +282,7 @@
       "telNo" : "010-3446-2848",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
-      "serialNumber" : "101716",
+      "serialNumber" : "123101716",
       "lat" : "35.2001304051202",
       "lon" : "129.206351015441",
       "name" : "단디바이크[단디바이크]",
@@ -294,7 +294,7 @@
       "telNo" : "010-4611-5297",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
-      "serialNumber" : "101690",
+      "serialNumber" : "123101690",
       "lat" : "35.1309536339382",
       "lon" : "129.101183999582",
       "name" : "닷스테이션 (대연지점)[닷스테이션 (대연지점)]",
@@ -306,7 +306,7 @@
       "telNo" : "010-5000-9631",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
-      "serialNumber" : "101701",
+      "serialNumber" : "123101701",
       "lat" : "35.1827971588075",
       "lon" : "129.083459005128",
       "name" : "닷스테이션 (연제점)[닷스테이션 (연제점)]",
@@ -318,7 +318,7 @@
       "telNo" : "010-4908-4444",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101687",
+      "serialNumber" : "123101687",
       "lat" : "35.8200786441584",
       "lon" : "128.753917427832",
       "name" : "닷스테이션 경산대리점[닷 스테이션]",
@@ -330,7 +330,7 @@
       "telNo" : "010-3939-0503",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101018",
+      "serialNumber" : "123101018",
       "lat" : "37.4824907783417",
       "lon" : "126.946184167543",
       "name" : "닷스테이션 관악대리점[주식회사 다연디에스에이 관악지점]",
@@ -342,7 +342,7 @@
       "telNo" : "010-3939-0503",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101018",
+      "serialNumber" : "123101018",
       "lat" : "37.4824907783417",
       "lon" : "126.946184167543",
       "name" : "닷스테이션 관악대리점[주식회사 다연디에스에이 관악지점]",
@@ -354,7 +354,7 @@
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
-      "serialNumber" : "101358",
+      "serialNumber" : "123101358",
       "lat" : "37.5955322785698",
       "lon" : "127.140459429417",
       "name" : "닷스테이션 구리대리점[와이 팩토리]",
@@ -368,7 +368,7 @@
       "dropFlag" : "N",
       "lat" : "37.3631588425749",
       "lon" : "126.940969037523",
-      "serialNumber" : "100865",
+      "serialNumber" : "123100865",
       "telNo" : "010-4373-1139",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -380,7 +380,7 @@
       "dropFlag" : "N",
       "lat" : "37.3631588425749",
       "lon" : "126.940969037523",
-      "serialNumber" : "100865",
+      "serialNumber" : "123100865",
       "telNo" : "010-4373-1139",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -392,7 +392,7 @@
       "dropFlag" : "N",
       "lat" : "37.4716490468666",
       "lon" : "126.897779055882",
-      "serialNumber" : "100423",
+      "serialNumber" : "123100423",
       "telNo" : "010-9493-2717",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -404,7 +404,7 @@
       "dropFlag" : "N",
       "lat" : "35.8639034390707",
       "lon" : "128.690308677201",
-      "serialNumber" : "100808",
+      "serialNumber" : "123100808",
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -416,7 +416,7 @@
       "dropFlag" : "N",
       "lat" : "37.4908562531343",
       "lon" : "126.77904012527",
-      "serialNumber" : "101039",
+      "serialNumber" : "123101039",
       "telNo" : "010-6771-3322",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -428,7 +428,7 @@
       "dropFlag" : "N",
       "lat" : "37.3723151268414",
       "lon" : "127.113354991502",
-      "serialNumber" : "101197",
+      "serialNumber" : "123101197",
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -440,7 +440,7 @@
       "dropFlag" : "N",
       "lat" : "37.3723151268414",
       "lon" : "127.113354991502",
-      "serialNumber" : "101197",
+      "serialNumber" : "123101197",
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -452,7 +452,7 @@
       "dropFlag" : "N",
       "lat" : "37.3723151268414",
       "lon" : "127.113354991502",
-      "serialNumber" : "101197",
+      "serialNumber" : "123101197",
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -464,7 +464,7 @@
       "dropFlag" : "N",
       "lat" : "37.5033675337152",
       "lon" : "127.109316641637",
-      "serialNumber" : "100115",
+      "serialNumber" : "123100115",
       "telNo" : "010-5966-6066",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -476,7 +476,7 @@
       "dropFlag" : "N",
       "lat" : "37.3315877471276",
       "lon" : "126.820826812058",
-      "serialNumber" : "101391",
+      "serialNumber" : "123101391",
       "telNo" : "010-3652-0329",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -488,7 +488,7 @@
       "dropFlag" : "N",
       "lat" : "37.3315877471276",
       "lon" : "126.820826812058",
-      "serialNumber" : "101391",
+      "serialNumber" : "123101391",
       "telNo" : "010-3652-0329",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -500,7 +500,7 @@
       "dropFlag" : "N",
       "lat" : "36.818705043895",
       "lon" : "127.137120672247",
-      "serialNumber" : "101328",
+      "serialNumber" : "123101328",
       "telNo" : "010-4739-1119",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -512,7 +512,7 @@
       "dropFlag" : "N",
       "lat" : "36.6352724954051",
       "lon" : "127.461653988792",
-      "serialNumber" : "101208",
+      "serialNumber" : "123101208",
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -524,7 +524,7 @@
       "dropFlag" : "N",
       "lat" : "36.6352615650289",
       "lon" : "127.461777140365",
-      "serialNumber" : "101526",
+      "serialNumber" : "123101526",
       "telNo" : "010-3333-2135",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -536,7 +536,7 @@
       "dropFlag" : "N",
       "lat" : "37.4070017835767",
       "lon" : "127.140094625833",
-      "serialNumber" : "101167",
+      "serialNumber" : "123101167",
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -548,7 +548,7 @@
       "dropFlag" : "N",
       "lat" : "35.8486749791166",
       "lon" : "128.546462017941",
-      "serialNumber" : "101533",
+      "serialNumber" : "123101533",
       "telNo" : "010-9456-8388",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -560,7 +560,7 @@
       "dropFlag" : "N",
       "lat" : "35.8863191505556",
       "lon" : "128.615839501396",
-      "serialNumber" : "100561",
+      "serialNumber" : "123100561",
       "telNo" : "010-4524-5086",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -572,7 +572,7 @@
       "dropFlag" : "N",
       "lat" : "35.9287889159193",
       "lon" : "128.549732627669",
-      "serialNumber" : "101837",
+      "serialNumber" : "123101837",
       "telNo" : "010-7931-9399",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -584,7 +584,7 @@
       "dropFlag" : "N",
       "lat" : "35.8466347385796",
       "lon" : "128.620427968815",
-      "serialNumber" : "101834",
+      "serialNumber" : "123101834",
       "telNo" : "010-5396-4011",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -596,7 +596,7 @@
       "dropFlag" : "N",
       "lat" : "35.8881849530703",
       "lon" : "128.575874801073",
-      "serialNumber" : "101787",
+      "serialNumber" : "123101787",
       "telNo" : "010 3631 4366",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -608,7 +608,7 @@
       "dropFlag" : "N",
       "lat" : "35.8590644479538",
       "lon" : "128.494048374957",
-      "serialNumber" : "101810",
+      "serialNumber" : "123101810",
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
@@ -616,7 +616,7 @@
       "operateTime" : "",
       "name" : "대구 만촌 고샵[생각대로 범어만촌]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101532",
+      "serialNumber" : "123101532",
       "lon" : "128.645910797953",
       "lat" : "35.8746662948115",
       "telNo" : "010-8637-4572",
@@ -628,7 +628,7 @@
       "operateTime" : "",
       "name" : "대구 모토크루 고샵[모토크루]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101823",
+      "serialNumber" : "123101823",
       "lon" : "128.574498290999",
       "lat" : "35.8791849025142",
       "telNo" : "010-3539-9846",
@@ -640,7 +640,7 @@
       "operateTime" : "",
       "name" : "대구 바이크마스터 고샵[바이크마스터]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101889",
+      "serialNumber" : "123101889",
       "lon" : "128.612521895756",
       "lat" : "35.8818334530119",
       "telNo" : "010-5675-6566",
@@ -652,7 +652,7 @@
       "operateTime" : "10:00~19:00, (토\/일 휴무)",
       "name" : "대구 바이크뱅크상인 고샵[바이크뱅크 상인점]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "100539",
+      "serialNumber" : "123100539",
       "lon" : "128.518954858277",
       "lat" : "35.812758245194",
       "telNo" : "010-6495-7678",
@@ -664,7 +664,7 @@
       "operateTime" : "10:00~19:00, (토\/일 휴무)",
       "name" : "대구 바이크뱅크상인 고샵[바이크뱅크 상인점]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "100539",
+      "serialNumber" : "123100539",
       "lon" : "128.518954858277",
       "lat" : "35.812758245194",
       "telNo" : "010-6495-7678",
@@ -676,7 +676,7 @@
       "operateTime" : "",
       "name" : "대구 바이크엘 고샵[바이크 엘]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101720",
+      "serialNumber" : "123101720",
       "lon" : "128.568367294906",
       "lat" : "35.8614573897722",
       "telNo" : "010-5595-4961",
@@ -688,7 +688,7 @@
       "operateTime" : "",
       "name" : "대구 바이크타운 고샵[바이크타운]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101901",
+      "serialNumber" : "123101901",
       "lon" : "128.567255736268",
       "lat" : "35.8421638733406",
       "telNo" : "010-3153-0384",
@@ -700,7 +700,7 @@
       "operateTime" : "",
       "name" : "대구 보경모터스 고샵[보경모터스]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101814",
+      "serialNumber" : "123101814",
       "lon" : "128.584165096023",
       "lat" : "35.8717993330887",
       "telNo" : "010-5147-0551",
@@ -712,7 +712,7 @@
       "operateTime" : "",
       "name" : "대구 북구 피트인 고샵[피트-인 (PIT-IN)]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101797",
+      "serialNumber" : "123101797",
       "lon" : "128.588739130744",
       "lat" : "35.8994402791955",
       "telNo" : "",
@@ -724,7 +724,7 @@
       "operateTime" : "",
       "name" : "대구 수성 고샵[닷스테이션 수성점]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101347",
+      "serialNumber" : "123101347",
       "lon" : "128.617103788833",
       "lat" : "35.8513724113597",
       "telNo" : "010-5528-7777",
@@ -737,7 +737,7 @@
       "name" : "대구 신기 고샵[신기오토바이]",
 
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101836",
+      "serialNumber" : "123101836",
       "lon" : "128.713339514336",
       "lat" : "35.8779222285713",
       "telNo" : "010-6236-4447",
@@ -749,7 +749,7 @@
       "operateTime" : "",
       "name" : "대구 신우 고샵[신우오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "100701",
+      "serialNumber" : "123100701",
       "lon" : "128.571022385673",
       "lat" : "35.8397177995522",
       "telNo" : "",
@@ -761,7 +761,7 @@
       "operateTime" : "",
       "name" : "대구 알에스모토 고샵[알에스모토]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "100188",
+      "serialNumber" : "123100188",
       "lon" : "128.615088217716",
       "lat" : "35.8515281197863",
       "telNo" : "010-7565-1532",
@@ -773,7 +773,7 @@
       "operateTime" : "",
       "name" : "대구 영덕오토바이 고샵[영덕오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101954",
+      "serialNumber" : "123101954",
       "lon" : "128.610747661013",
       "lat" : "35.8345562991206",
       "telNo" : "010-2552-9243",
@@ -785,7 +785,7 @@
       "operateTime" : "",
       "name" : "대구 오렌지바이크 고샵[오렌지바이크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101813",
+      "serialNumber" : "123101813",
       "lon" : "128.573819078808",
       "lat" : "35.8556118899172",
       "telNo" : "010-4444-0176",
@@ -797,7 +797,7 @@
       "operateTime" : "",
       "name" : "대구 오토라이더스 고샵[오토라이더스]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "100181",
+      "serialNumber" : "123100181",
       "lon" : "128.554835748295",
       "lat" : "35.9375590428236",
       "telNo" : "010-2504-4562",
@@ -809,7 +809,7 @@
       "operateTime" : "",
       "name" : "대구 이씨바이크 고샵[위 팩토리]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101824",
+      "serialNumber" : "123101824",
       "lon" : "128.690308677201",
       "lat" : "35.8639034390707",
       "telNo" : "",
@@ -821,7 +821,7 @@
       "operateTime" : "",
       "name" : "대구 지범모터스고샵[지산범물오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "100190",
+      "serialNumber" : "123100190",
       "lon" : "128.632118725484",
       "lat" : "35.8270175735962",
       "telNo" : "010-2975-9980",
@@ -833,7 +833,7 @@
       "operateTime" : "",
       "name" : "대구 철이모터스 고샵[철이모터샵]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "100182",
+      "serialNumber" : "123100182",
       "lon" : "128.549627267116",
       "lat" : "35.9399200783754",
       "telNo" : "010-9407-3299",
@@ -845,7 +845,7 @@
       "operateTime" : "",
       "name" : "대구 칠곡 고샵[쇼핑마켓]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101301",
+      "serialNumber" : "123101301",
       "lon" : "128.552061574969",
       "lat" : "35.9271957942669",
       "telNo" : "010-4260-1333",
@@ -857,7 +857,7 @@
       "operateTime" : "",
       "name" : "대구 칠곡 고샵[쇼핑마켓]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "101301",
+      "serialNumber" : "123101301",
       "lon" : "128.552061574969",
       "lat" : "35.9271957942669",
       "telNo" : "010-4260-1333",
@@ -874,7 +874,7 @@
       "dropFlag" : "N",
       "lon" : "128.499554483385",
       "name" : "대구 캡틴 고샵[캡틴(배달대행)]",
-      "serialNumber" : "101914",
+      "serialNumber" : "123101914",
       "telNo" : "010-9494-4550"
     },
     {
@@ -886,7 +886,7 @@
       "dropFlag" : "N",
       "lon" : "128.564615317748",
       "name" : "대구남구스피드 고샵[스피드모토샵]",
-      "serialNumber" : "101785",
+      "serialNumber" : "123101785",
       "telNo" : "010-3828-8889"
     },
     {
@@ -898,7 +898,7 @@
       "dropFlag" : "N",
       "lon" : "128.472892614203",
       "name" : "대구식스팩토리고샵[식스팩토리]",
-      "serialNumber" : "101790",
+      "serialNumber" : "123101790",
       "telNo" : "010-8958-8222"
     },
     {
@@ -910,7 +910,7 @@
       "dropFlag" : "N",
       "lon" : "128.584453096276",
       "name" : "대구의성고샵[의성모터스]",
-      "serialNumber" : "101789",
+      "serialNumber" : "123101789",
       "telNo" : "010-7628-9299"
     },
     {
@@ -922,7 +922,7 @@
       "dropFlag" : "N",
       "lon" : "128.988680757471",
       "name" : "대명오토바이[대명오토바이]",
-      "serialNumber" : "101735",
+      "serialNumber" : "123101735",
       "telNo" : "010-3156-1584"
     },
     {
@@ -934,7 +934,7 @@
       "dropFlag" : "N",
       "lon" : "127.350982219445",
       "name" : "대전 고고바이크 고샵[대전오토바이고고바이크]",
-      "serialNumber" : "101915",
+      "serialNumber" : "123101915",
       "telNo" : "010-6410-5473"
     },
     {
@@ -946,7 +946,7 @@
       "dropFlag" : "N",
       "lon" : "127.331211082525",
       "name" : "대전 구암MZ바이크 고샵[구암MZ바이크]",
-      "serialNumber" : "102022",
+      "serialNumber" : "123102022",
       "telNo" : "010-5155-1554"
     },
     {
@@ -958,7 +958,7 @@
       "dropFlag" : "N",
       "lon" : "127.401342831279",
       "name" : "대전 닷스테이션 고샵[닷스테이션 대전점]",
-      "serialNumber" : "101123",
+      "serialNumber" : "123101123",
       "telNo" : ""
     },
     {
@@ -970,7 +970,7 @@
       "dropFlag" : "N",
       "lon" : "127.439455657797",
       "name" : "대전 동구 올바이크고샵[올바이크]",
-      "serialNumber" : "101783",
+      "serialNumber" : "123101783",
       "telNo" : "010-9415-5767"
     },
     {
@@ -982,7 +982,7 @@
       "dropFlag" : "N",
       "lon" : "127.440601031727",
       "name" : "대전 디케이바이크 고샵[디케이바이크 대덕점]",
-      "serialNumber" : "101902",
+      "serialNumber" : "123101902",
       "telNo" : "010-6490-5196"
     },
     {
@@ -995,7 +995,7 @@
       "dropFlag" : "N",
       "lon" : "127.354365794896",
       "name" : "대전 비에이치모토 고샵[비에치모토(BH MOTO)]",
-      "serialNumber" : "102023",
+      "serialNumber" : "123102023",
       "telNo" : "01041030217"
     },
     {
@@ -1007,7 +1007,7 @@
       "dropFlag" : "N",
       "lon" : "127.372673270182",
       "name" : "대전 서구 바이크뱅크 고샵[바이크뱅크 서구 내동점]",
-      "serialNumber" : "101780",
+      "serialNumber" : "123101780",
       "telNo" : ""
     },
     {
@@ -1019,7 +1019,7 @@
       "dropFlag" : "N",
       "lon" : "127.375556346791",
       "name" : "대전 서구 진바이크 고샵[진바이크 서구점]",
-      "serialNumber" : "101781",
+      "serialNumber" : "123101781",
       "telNo" : "010-8813-1480"
     },
     {
@@ -1031,7 +1031,7 @@
       "dropFlag" : "N",
       "lon" : "127.383149668525",
       "name" : "대전 서구 타이거바이크 고샵[타이거 바이크]",
-      "serialNumber" : "101755",
+      "serialNumber" : "123101755",
       "telNo" : ""
     },
     {
@@ -1043,7 +1043,7 @@
       "dropFlag" : "N",
       "lon" : "127.365672570076",
       "name" : "대전 신둔산 고샵[신둔산오토바이]",
-      "serialNumber" : "101882",
+      "serialNumber" : "123101882",
       "telNo" : "010-5405-6131"
     },
     {
@@ -1055,7 +1055,7 @@
       "dropFlag" : "N",
       "lon" : "127.389412296567",
       "name" : "대전 에스제이바이크 고샵[에스제이 바이크]",
-      "serialNumber" : "102024",
+      "serialNumber" : "123102024",
       "telNo" : "010-8528-2042"
     },
     {
@@ -1067,7 +1067,7 @@
       "dropFlag" : "N",
       "lon" : "127.368745715106",
       "name" : "대전 영일바이크 고샵[영일바이크]",
-      "serialNumber" : "102021",
+      "serialNumber" : "123102021",
       "telNo" : "01097590242"
     },
     {
@@ -1079,7 +1079,7 @@
       "dropFlag" : "N",
       "lon" : "127.364145853089",
       "name" : "대전 위드바이크 고샵[위드바이크]",
-      "serialNumber" : "101891",
+      "serialNumber" : "123101891",
       "telNo" : "010-8992-1196"
     },
     {
@@ -1091,7 +1091,7 @@
       "dropFlag" : "N",
       "lon" : "127.353459198105",
       "name" : "대전 유성 킹콩오토바이 고샵[킹콩오토바이]",
-      "serialNumber" : "101798",
+      "serialNumber" : "123101798",
       "telNo" : "010-4403-4335"
     },
     {
@@ -1103,7 +1103,7 @@
       "dropFlag" : "N",
       "lon" : "127.411596600442",
       "name" : "대전 중구 중앙모터스 고샵[중앙모터스]",
-      "serialNumber" : "101779",
+      "serialNumber" : "123101779",
       "telNo" : ""
     },
     {
@@ -1115,12 +1115,12 @@
       "dropFlag" : "N",
       "lon" : "127.378301447705",
       "name" : "대전 티티게러지 고샵[티티게러지(TTgarage)]",
-      "serialNumber" : "101835",
+      "serialNumber" : "123101835",
       "telNo" : "010-5623-4972"
     },
     {
       "telNo" : "010-6264-2614",
-      "serialNumber" : "101896",
+      "serialNumber" : "123101896",
       "name" : "대전 G스테이션 고샵[지 스테이션]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1132,7 +1132,7 @@
     },
     {
       "telNo" : "010-7270-9942",
-      "serialNumber" : "101396",
+      "serialNumber" : "123101396",
       "name" : "대전동구 에스와이 바이크 고샵[에스와이 퀵서비스, 바이크샵]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1144,7 +1144,7 @@
     },
     {
       "telNo" : "010-3433-0901",
-      "serialNumber" : "101792",
+      "serialNumber" : "123101792",
       "name" : "대전동구용전 진바이크 고샵[진바이크 용전점]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1156,7 +1156,7 @@
     },
     {
       "telNo" : "010-8716-8256",
-      "serialNumber" : "100086",
+      "serialNumber" : "123100086",
       "name" : "더 바이크(THE BIKE)[더 바이크(THE BIKE)]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1168,7 +1168,7 @@
     },
     {
       "telNo" : "010-2271-7878",
-      "serialNumber" : "101697",
+      "serialNumber" : "123101697",
       "name" : "동광모터스[동광모터스]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
@@ -1180,7 +1180,7 @@
     },
     {
       "telNo" : "010-4611-8362",
-      "serialNumber" : "101715",
+      "serialNumber" : "123101715",
       "name" : "라이더스모터스[라이더스모터스]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
@@ -1192,7 +1192,7 @@
     },
     {
       "telNo" : "010-3561-9469",
-      "serialNumber" : "100222",
+      "serialNumber" : "123100222",
       "name" : "마산 신흥오토바이 고샵[신흥오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1204,7 +1204,7 @@
     },
     {
       "telNo" : "",
-      "serialNumber" : "101710",
+      "serialNumber" : "123101710",
       "name" : "바이크뱅크 (금정점)[바이크뱅크 (금정점)]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
@@ -1216,7 +1216,7 @@
     },
     {
       "telNo" : "010-7100-5167",
-      "serialNumber" : "101707",
+      "serialNumber" : "123101707",
       "name" : "바이크뱅크 사상점[바이크뱅크 사상점]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
@@ -1228,7 +1228,7 @@
     },
     {
       "telNo" : "",
-      "serialNumber" : "101702",
+      "serialNumber" : "123101702",
       "name" : "바이크뱅크(하단점)[바이크뱅크(하단점)]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "09:00~18:00",
@@ -1240,7 +1240,7 @@
     },
     {
       "telNo" : "010-7511-4440",
-      "serialNumber" : "101939",
+      "serialNumber" : "123101939",
       "name" : "부산 국제바이크 고샵[국제바이크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1252,7 +1252,7 @@
     },
     {
       "telNo" : "010-9328-5442",
-      "serialNumber" : "100243",
+      "serialNumber" : "123100243",
       "name" : "부산 남부오토바이 고샵[남부오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1264,7 +1264,7 @@
     },
     {
       "telNo" : "010-3594-2153",
-      "serialNumber" : "102001",
+      "serialNumber" : "123102001",
       "name" : "부산 넥스트모빌리티 고샵[넥스트이브이모빌리티]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1276,7 +1276,7 @@
     },
     {
       "telNo" : "010-2555-4469",
-      "serialNumber" : "101966",
+      "serialNumber" : "123101966",
       "name" : "부산 다대종합 고샵[다대종합오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1288,7 +1288,7 @@
     },
     {
       "telNo" : "010-3570-4512",
-      "serialNumber" : "100248",
+      "serialNumber" : "123100248",
       "name" : "부산 다리모터스 고샵[다리모터스]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1300,7 +1300,7 @@
     },
     {
       "telNo" : "010-4009-9433",
-      "serialNumber" : "100208",
+      "serialNumber" : "123100208",
       "name" : "부산 닷스테이션 고샵[주식회사 프로바이크뱅크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1312,7 +1312,7 @@
     },
     {
       "telNo" : "010-4009-9433",
-      "serialNumber" : "100208",
+      "serialNumber" : "123100208",
       "name" : "부산 닷스테이션 고샵[주식회사 프로바이크뱅크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1324,7 +1324,7 @@
     },
     {
       "telNo" : "010-4009-9433",
-      "serialNumber" : "100208",
+      "serialNumber" : "123100208",
       "name" : "부산 닷스테이션 고샵[주식회사 프로바이크뱅크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1336,7 +1336,7 @@
     },
     {
       "telNo" : "010-3020-1731",
-      "serialNumber" : "101932",
+      "serialNumber" : "123101932",
       "name" : "부산 닷스테이션 대연점 고샵[고샵 대연점]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1348,7 +1348,7 @@
     },
     {
       "telNo" : "010-7708-8428",
-      "serialNumber" : "102005",
+      "serialNumber" : "123102005",
       "name" : "부산 닷스테이션 북부산점 고샵[닷스테이션 고고로 북부산점]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1360,7 +1360,7 @@
     },
     {
       "telNo" : "010-6646-7617",
-      "serialNumber" : "101946",
+      "serialNumber" : "123101946",
       "name" : "부산 닷스테이션 사하점 고샵[닷스테이션 고고로 사하점]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1374,7 +1374,7 @@
       "lon" : "129.094748581854",
       "lat" : "35.1890007054559",
       "telNo" : "010-6500-5345",
-      "serialNumber" : "101949",
+      "serialNumber" : "123101949",
       "name" : "부산 닷스테이션 양정점 고샵[다윈상사 부산 sym]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1386,7 +1386,7 @@
       "lon" : "129.083459005128",
       "lat" : "35.1827971588075",
       "telNo" : "010-3020-1731",
-      "serialNumber" : "101933",
+      "serialNumber" : "123101933",
       "name" : "부산 닷스테이션 연제점 고샵[주식회사 프로바이크뱅크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1398,7 +1398,7 @@
       "lon" : "128.988680757471",
       "lat" : "35.175862404169",
       "telNo" : "010-3156-1584",
-      "serialNumber" : "101927",
+      "serialNumber" : "123101927",
       "name" : "부산 대명오토바이 고샵[대명오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1410,7 +1410,7 @@
       "lon" : "129.052874597485",
       "lat" : "35.1650276736268",
       "telNo" : "010-3861-1688",
-      "serialNumber" : "101936",
+      "serialNumber" : "123101936",
       "name" : "부산 대왕모터스 고샵[대왕오토랜드]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1422,7 +1422,7 @@
       "lon" : "129.012319298641",
       "lat" : "35.2115420302652",
       "telNo" : "010-8918-7357",
-      "serialNumber" : "101930",
+      "serialNumber" : "123101930",
       "name" : "부산 덕천오토바이 고샵[덕천오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1434,7 +1434,7 @@
       "lon" : "129.037572283549",
       "lat" : "35.1118902409085",
       "telNo" : "010-2271-7878",
-      "serialNumber" : "101940",
+      "serialNumber" : "123101940",
       "name" : "부산 동광모터스 고샵[동광모터스]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1446,7 +1446,7 @@
       "lon" : "129.120855785595",
       "lat" : "35.1567910169393",
       "telNo" : "010-2938-2274",
-      "serialNumber" : "101926",
+      "serialNumber" : "123101926",
       "name" : "부산 동방오토바이 고샵[DBMB]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1458,7 +1458,7 @@
       "lon" : "129.039254402399",
       "lat" : "35.0878232277515",
       "telNo" : "010-3856-1548",
-      "serialNumber" : "100255",
+      "serialNumber" : "123100255",
       "name" : "부산 동진오토바이 고샵[동진오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1470,7 +1470,7 @@
       "lon" : "129.092576284362",
       "lat" : "35.2243643270224",
       "telNo" : "010-5521-6756",
-      "serialNumber" : "101910",
+      "serialNumber" : "123101910",
       "name" : "부산 디씨즈 고샵[디씨즈]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1482,7 +1482,7 @@
       "lon" : "128.96142492194",
       "lat" : "35.1033706512951",
       "telNo" : "010-9957-8375",
-      "serialNumber" : "101937",
+      "serialNumber" : "123101937",
       "name" : "부산 레드바이크 고샵[레드바이크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1494,7 +1494,7 @@
       "lon" : "129.085110986546",
       "lat" : "35.1749712982393",
       "telNo" : "010-6608-8820",
-      "serialNumber" : "101920",
+      "serialNumber" : "123101920",
       "name" : "부산 린바이크 고샵[린바이크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1506,7 +1506,7 @@
       "lon" : "129.181183767927",
       "lat" : "35.1748666582483",
       "telNo" : "010-8782-8265",
-      "serialNumber" : "102006",
+      "serialNumber" : "123102006",
       "name" : "부산 림바이크 고샵[림바이크(오토바이)]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1518,7 +1518,7 @@
       "lon" : "129.004717776042",
       "lat" : "35.2055217795196",
       "telNo" : "010-4573-0478",
-      "serialNumber" : "101908",
+      "serialNumber" : "123101908",
       "name" : "부산 명재오토바이 고샵[명재오토바이]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1530,7 +1530,7 @@
       "lon" : "129.115246707794",
       "lat" : "35.1612853835775",
       "telNo" : "010-4661-2806",
-      "serialNumber" : "101944",
+      "serialNumber" : "123101944",
       "name" : "부산 몽바이크 고샵[몽바이크]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1542,7 +1542,7 @@
       "lon" : "128.98519877887",
       "lat" : "35.1574061630928",
       "telNo" : "010-6515-3542",
-      "serialNumber" : "100233",
+      "serialNumber" : "123100233",
       "name" : "부산 바이크뱅크사상점 고샵[바이크 뱅크 (사상점)]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1554,7 +1554,7 @@
       "lon" : "129.098465323208",
       "lat" : "35.2085458858127",
       "telNo" : "010-8383-6546",
-      "serialNumber" : "100204",
+      "serialNumber" : "123100204",
       "name" : "부산 바이크아지트 고샵[바이크아지트]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1566,7 +1566,7 @@
       "lon" : "129.085596684125",
       "lat" : "35.2283612064214",
       "telNo" : "010-4306-3911",
-      "serialNumber" : "101917",
+      "serialNumber" : "123101917",
       "name" : "부산 바이크팩토리 고샵[바이크팩토리]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1578,7 +1578,7 @@
       "lon" : "129.083580160002",
       "lat" : "35.2296309713449",
       "telNo" : "010-6743-5676",
-      "serialNumber" : "101909",
+      "serialNumber" : "123101909",
       "name" : "부산 바이크필드 고샵[바이크필드]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1590,7 +1590,7 @@
       "lon" : "129.028354103268",
       "lat" : "35.2108039509292",
       "telNo" : "010-9316-4996",
-      "serialNumber" : "101918",
+      "serialNumber" : "123101918",
       "name" : "부산 백양모터스 고샵[백양 모터스]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1602,7 +1602,7 @@
       "lon" : "129.012283502879",
       "lat" : "35.2277258024436",
       "telNo" : "010-3857-2567",
-      "serialNumber" : "101938",
+      "serialNumber" : "123101938",
       "name" : "부산 부경오토바이 고샵[부경오토바이상사]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1614,7 +1614,7 @@
       "lon" : "129.120872012039",
       "lat" : "35.1683932148164",
       "telNo" : "010-4542-6665",
-      "serialNumber" : "101921",
+      "serialNumber" : "123101921",
       "name" : "부산 부산전기스쿠터 고샵[부산 전기 스쿠터]",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "operateTime" : "",
@@ -1631,7 +1631,7 @@
       "releaseDate" : "",
       "name" : "부산 부산진구 진바이크 고샵[진 바이크 (진구점)]",
       "lat" : "35.1506701878217",
-      "serialNumber" : "100210",
+      "serialNumber" : "123100210",
       "operateTime" : ""
     },
     {
@@ -1643,7 +1643,7 @@
       "releaseDate" : "",
       "name" : "부산 스쿠터제이 고샵[스쿠터제이]",
       "lat" : "35.1136530951648",
-      "serialNumber" : "100202",
+      "serialNumber" : "123100202",
       "operateTime" : ""
     },
     {
@@ -1655,7 +1655,7 @@
       "releaseDate" : "",
       "name" : "부산 스쿠터프로 고샵[스쿠터 프로]",
       "lat" : "35.1468038198307",
-      "serialNumber" : "102016",
+      "serialNumber" : "123102016",
       "operateTime" : ""
     },
     {
@@ -1667,7 +1667,7 @@
       "releaseDate" : "",
       "name" : "부산 스타바이크 고샵[스타바이크]",
       "lat" : "35.1983797202188",
-      "serialNumber" : "101960",
+      "serialNumber" : "123101960",
       "operateTime" : ""
     },
     {
@@ -1679,7 +1679,7 @@
       "releaseDate" : "",
       "name" : "부산 신성바이크 고샵[신성바이크]",
       "lat" : "35.0658931566277",
-      "serialNumber" : "101928",
+      "serialNumber" : "123101928",
       "operateTime" : ""
     },
     {
@@ -1691,7 +1691,7 @@
       "releaseDate" : "",
       "name" : "부산 신화바이크 고샵[신화바이크]",
       "lat" : "35.0797455151052",
-      "serialNumber" : "101945",
+      "serialNumber" : "123101945",
       "operateTime" : ""
     },
     {
@@ -1703,7 +1703,7 @@
       "releaseDate" : "",
       "name" : "부산 안락명장2호점 고샵[생각대로 안락명장2호점]",
       "lat" : "35.2021936620288",
-      "serialNumber" : "100206",
+      "serialNumber" : "123100206",
       "operateTime" : ""
     },
     {
@@ -1715,7 +1715,7 @@
       "releaseDate" : "",
       "name" : "부산 에스모터스 고샵[에스(S)모터스]",
       "lat" : "35.1317466822612",
-      "serialNumber" : "101931",
+      "serialNumber" : "123101931",
       "operateTime" : ""
     },
     {
@@ -1727,7 +1727,7 @@
       "releaseDate" : "",
       "name" : "부산 엠피모터스 고샵[엠피모터스 주식회사]",
       "lat" : "35.1593464932421",
-      "serialNumber" : "101922",
+      "serialNumber" : "123101922",
       "operateTime" : ""
     },
     {
@@ -1739,7 +1739,7 @@
       "releaseDate" : "",
       "name" : "부산 영바이크 고샵[영바이크샵]",
       "lat" : "35.2103353197691",
-      "serialNumber" : "101941",
+      "serialNumber" : "123101941",
       "operateTime" : ""
     },
     {
@@ -1751,7 +1751,7 @@
       "releaseDate" : "",
       "name" : "부산 오케이모터스 고샵[오케이모터스]",
       "lat" : "35.1538915259411",
-      "serialNumber" : "100209",
+      "serialNumber" : "123100209",
       "operateTime" : ""
     },
     {
@@ -1763,7 +1763,7 @@
       "releaseDate" : "",
       "name" : "부산 오토바이 매매단지[부산 오토바이 매매단지]",
       "lat" : "35.1420723453074",
-      "serialNumber" : "101706",
+      "serialNumber" : "123101706",
       "operateTime" : "09:00~18:00"
     },
     {
@@ -1775,7 +1775,7 @@
       "releaseDate" : "",
       "name" : "부산 와이비바이크 고샵[와이비 바이크(YB BIKE)]",
       "lat" : "35.157056372379",
-      "serialNumber" : "101925",
+      "serialNumber" : "123101925",
       "operateTime" : ""
     },
     {
@@ -1787,7 +1787,7 @@
       "releaseDate" : "",
       "name" : "부산 왕바이크 고샵[왕 바이크]",
       "lat" : "35.1292873753314",
-      "serialNumber" : "101942",
+      "serialNumber" : "123101942",
       "operateTime" : ""
     },
     {
@@ -1799,7 +1799,7 @@
       "releaseDate" : "",
       "name" : "부산 제일오토바이 고샵[제일오토바이]",
       "lat" : "35.2353441252592",
-      "serialNumber" : "102003",
+      "serialNumber" : "123102003",
       "operateTime" : ""
     },
     {
@@ -1811,7 +1811,7 @@
       "releaseDate" : "",
       "name" : "부산 중앙오토바이 고샵[제이에이(JA)바이크]",
       "lat" : "35.1408995523238",
-      "serialNumber" : "101958",
+      "serialNumber" : "123101958",
       "operateTime" : ""
     },
     {
@@ -1823,7 +1823,7 @@
       "releaseDate" : "",
       "name" : "부산 지one 고샵[지-one]",
       "lat" : "35.2290338601619",
-      "serialNumber" : "101912",
+      "serialNumber" : "123101912",
       "operateTime" : ""
     },
     {
@@ -1835,7 +1835,7 @@
       "releaseDate" : "",
       "name" : "부산 최가모터스 고샵[최가모터스]",
       "lat" : "35.0967707146375",
-      "serialNumber" : "101527",
+      "serialNumber" : "123101527",
       "operateTime" : ""
     },
     {
@@ -1847,7 +1847,7 @@
       "releaseDate" : "",
       "name" : "부산 태양바이크 고샵[태양바이크]",
       "lat" : "35.2109691304893",
-      "serialNumber" : "100227",
+      "serialNumber" : "123100227",
       "operateTime" : ""
     },
     {
@@ -1859,7 +1859,7 @@
       "releaseDate" : "",
       "name" : "부산 텐바이크 고샵[텐바이크 (Ten Bike)]",
       "lat" : "35.1927418437409",
-      "serialNumber" : "101916",
+      "serialNumber" : "123101916",
       "operateTime" : ""
     },
     {
@@ -1871,11 +1871,11 @@
       "releaseDate" : "",
       "name" : "부산 팔도오토바이 고샵[팔도오토바이]",
       "lat" : "35.1693437108393",
-      "serialNumber" : "101948",
+      "serialNumber" : "123101948",
       "operateTime" : ""
     },
     {
-      "serialNumber" : "101934",
+      "serialNumber" : "123101934",
       "lon" : "129.040915636886",
       "lat" : "35.0862402003273",
       "address" : "부산광역시 영도구 영선대로 55 (영선동3가)",
@@ -1887,7 +1887,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101959",
+      "serialNumber" : "123101959",
       "lon" : "129.17155007333",
       "lat" : "35.1707031921868",
       "address" : "부산광역시 해운대구 대천로42번길 28-7 1층(중동)",
@@ -1899,7 +1899,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101919",
+      "serialNumber" : "123101919",
       "lon" : "129.075188072553",
       "lat" : "35.1355693382091",
       "address" : "부산광역시 남구 수영로69번길 5 1층(문현동)",
@@ -1911,7 +1911,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "102009",
+      "serialNumber" : "123102009",
       "lon" : "129.020001037749",
       "lat" : "35.0984712242557",
       "address" : "부산광역시 서구 구덕로 155 1층,지하층(초장동)",
@@ -1923,7 +1923,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "100049",
+      "serialNumber" : "123100049",
       "lon" : "129.087488263307",
       "lat" : "35.23613783877",
       "address" : "부산광역시 금정구 금정로 129 ",
@@ -1935,7 +1935,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101911",
+      "serialNumber" : "123101911",
       "lon" : "129.087210250832",
       "lat" : "35.243242135953",
       "address" : "부산광역시 금정구 금강로 398 1층(구서동)",
@@ -1947,7 +1947,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101913",
+      "serialNumber" : "123101913",
       "lon" : "129.105445196554",
       "lat" : "35.1992824318588",
       "address" : "부산광역시 동래구 안락로 78 1층(안락동)",
@@ -1959,7 +1959,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101943",
+      "serialNumber" : "123101943",
       "lon" : "129.120701275534",
       "lat" : "35.158075248654",
       "address" : "부산광역시 수영구 광남로 196-2 (민락동)",
@@ -1971,7 +1971,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "100254",
+      "serialNumber" : "123100254",
       "lon" : "129.076276093471",
       "lat" : "35.1859163593197",
       "address" : "부산광역시 연제구 중앙대로1075번길 77 1층(연산동)",
@@ -1983,7 +1983,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101951",
+      "serialNumber" : "123101951",
       "lon" : "129.044281881707",
       "lat" : "35.0888061625502",
       "address" : "부산광역시 영도구 꿈나무길 64 1층(영선동1가)",
@@ -1995,7 +1995,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101709",
+      "serialNumber" : "123101709",
       "lon" : "129.120872012039",
       "lat" : "35.1683932148164",
       "address" : "부산광역시 수영구 수영로 743 (수영동)",
@@ -2007,7 +2007,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "100819",
+      "serialNumber" : "123100819",
       "lon" : "126.77904012527",
       "lat" : "37.4908562531343",
       "address" : "경기 부천시 원미구 장말로 333 (심곡동)",
@@ -2019,7 +2019,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "100819",
+      "serialNumber" : "123100819",
       "lon" : "126.77904012527",
       "lat" : "37.4908562531343",
       "address" : "경기 부천시 원미구 장말로 333 (심곡동)",
@@ -2031,7 +2031,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "100819",
+      "serialNumber" : "123100819",
       "lon" : "126.77904012527",
       "lat" : "37.4908562531343",
       "address" : "경기 부천시 원미구 장말로 333 (심곡동)",
@@ -2043,7 +2043,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101885",
+      "serialNumber" : "123101885",
       "lon" : "127.035578696545",
       "lat" : "37.5067232303528",
       "address" : "서울특별시 강남구 봉은사로30길 15 (역삼동)",
@@ -2055,7 +2055,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "102014",
+      "serialNumber" : "123102014",
       "lon" : "127.087726553337",
       "lat" : "37.5469564652908",
       "address" : "서울특별시 광진구 자양로 228 1층(구의동,승원빌딩)",
@@ -2067,7 +2067,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "100121",
+      "serialNumber" : "123100121",
       "lon" : "126.914432703564",
       "lat" : "37.5952046197099",
       "address" : "서울특별시 은평구 증산로 437 1층(신사동)",
@@ -2079,7 +2079,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101892",
+      "serialNumber" : "123101892",
       "lon" : "127.116628512841",
       "lat" : "37.5081421732658",
       "address" : "서울특별시 송파구 오금로 203 지층(방이동,남양빌딩)",
@@ -2091,7 +2091,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101812",
+      "serialNumber" : "123101812",
       "lon" : "127.072496274418",
       "lat" : "37.6194502603585",
       "address" : "서울특별시 노원구 섬밭로 30 (공릉동,대동아파트) 1층 101호",
@@ -2103,7 +2103,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101599",
+      "serialNumber" : "123101599",
       "lon" : "127.045261303984",
       "lat" : "37.4940231208839",
       "address" : "서울특별시 강남구 도곡로 245 1층",
@@ -2115,7 +2115,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "101599",
+      "serialNumber" : "123101599",
       "lon" : "127.045261303984",
       "lat" : "37.4940231208839",
       "address" : "서울특별시 강남구 도곡로 245 1층",
@@ -2133,7 +2133,7 @@
       "lon" : "127.023735010537",
       "dropFlag" : "N",
       "address" : "서울 강북구 솔샘로 281 (미아동)",
-      "serialNumber" : "101820",
+      "serialNumber" : "123101820",
       "name" : "서울 삼양바이크 고샵[삼양바이크]",
       "lat" : "37.6187734988092",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2145,7 +2145,7 @@
       "lon" : "127.023735010537",
       "dropFlag" : "N",
       "address" : "서울 강북구 솔샘로 281 (미아동)",
-      "serialNumber" : "101820",
+      "serialNumber" : "123101820",
       "name" : "서울 삼양바이크 고샵[삼양바이크]",
       "lat" : "37.6187734988092",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2157,7 +2157,7 @@
       "lon" : "127.019588773468",
       "dropFlag" : "N",
       "address" : "서울특별시 성북구 고려대로7길 62 (안암동1가) 1층",
-      "serialNumber" : "101845",
+      "serialNumber" : "123101845",
       "name" : "서울 성북모터스 고샵[성북모터스]",
       "lat" : "37.5884835080159",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2169,7 +2169,7 @@
       "lon" : "126.95027614634",
       "dropFlag" : "N",
       "address" : "서울특별시 마포구 신촌로 222 (아현동) 1층",
-      "serialNumber" : "101489",
+      "serialNumber" : "123101489",
       "name" : "서울 세일바이크 고샵[세일바이크]",
       "lat" : "37.5568224381423",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2181,7 +2181,7 @@
       "lon" : "126.955288994827",
       "dropFlag" : "N",
       "address" : "서울특별시 관악구 남부순환로 1845 (봉천동) 1동 103호, 203호",
-      "serialNumber" : "101304",
+      "serialNumber" : "123101304",
       "name" : "서울 스즈키관악점 리더모터스 고샵[스즈키 관악점 리더모터스]",
       "lat" : "37.4806611116471",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2193,7 +2193,7 @@
       "lon" : "127.076661570151",
       "dropFlag" : "N",
       "address" : "서울특별시 광진구 광나루로 426 (화양동) 1층",
-      "serialNumber" : "101400",
+      "serialNumber" : "123101400",
       "name" : "서울 엠75스테이션 고샵[엠75스테이션(M75 STATION)]",
       "lat" : "37.5459255860531",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2205,7 +2205,7 @@
       "lon" : "126.908568602136",
       "dropFlag" : "N",
       "address" : "서울특별시 마포구 동교로 57 (망원동)",
-      "serialNumber" : "101890",
+      "serialNumber" : "123101890",
       "name" : "서울 영진오토바이 고샵[영진오토바이]",
       "lat" : "37.5534170550706",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2217,7 +2217,7 @@
       "lon" : "127.128534749374",
       "dropFlag" : "N",
       "address" : "서울특별시 강동구 풍성로 147-5 (성내동,다온하우스) 바이크 119",
-      "serialNumber" : "101360",
+      "serialNumber" : "123101360",
       "name" : "서울 와이엑스에스 고샵[주식회사 와이엑스에스]",
       "lat" : "37.5313586536423",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2229,7 +2229,7 @@
       "lon" : "127.019802757409",
       "dropFlag" : "N",
       "address" : "서울특별시 서초구 주흥16길 23 (반포동) 1층",
-      "serialNumber" : "101842",
+      "serialNumber" : "123101842",
       "name" : "서울 우리바이크 고샵[우리 바이크]",
       "lat" : "37.5097466462785",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2241,7 +2241,7 @@
       "lon" : "127.04080868818",
       "dropFlag" : "N",
       "address" : "서울특별시 도봉구 해등로 132 (창동) 1층",
-      "serialNumber" : "101803",
+      "serialNumber" : "123101803",
       "name" : "서울 이륜차판매소 고샵[이륜차 판매소 서울]",
       "lat" : "37.6552942248842",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2253,7 +2253,7 @@
       "lon" : "126.897779055882",
       "dropFlag" : "N",
       "address" : "서울특별시 금천구 시흥대로 427 (독산동) 1층",
-      "serialNumber" : "101746",
+      "serialNumber" : "123101746",
       "name" : "서울 제이에스실업 고샵[주식회사 제이에스실업]",
       "lat" : "37.4716490468666",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2265,7 +2265,7 @@
       "lon" : "127.036601478917",
       "dropFlag" : "N",
       "address" : "서울특별시 성동구 마장로29길 32 (마장동)",
-      "serialNumber" : "101819",
+      "serialNumber" : "123101819",
       "name" : "서울 플러스모토 고샵[플러스 모토]",
       "lat" : "37.5688056229006",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2277,7 +2277,7 @@
       "lon" : "127.073171926536",
       "dropFlag" : "N",
       "address" : "서울특별시 성동구 동일로 309 (송정동)",
-      "serialNumber" : "101453",
+      "serialNumber" : "123101453",
       "name" : "서울광진 위더스모터스 고샵[주식회사 위더스모터스]",
       "lat" : "37.5589564100718",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2289,7 +2289,7 @@
       "lon" : "127.061125017783",
       "dropFlag" : "N",
       "address" : "서울특별시 동대문구 한천로 43 (답십리동,리더스빌딩) 1층 105호",
-      "serialNumber" : "100798",
+      "serialNumber" : "123100798",
       "name" : "서울동대문 위더스모터스 고샵[주식회사 위더스모터스]",
       "lat" : "37.5659476957408",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2301,7 +2301,7 @@
       "lon" : "126.917043329917",
       "dropFlag" : "N",
       "address" : "서울특별시 마포구 월드컵북로 64 (성산동)",
-      "serialNumber" : "101040",
+      "serialNumber" : "123101040",
       "name" : "서울마포 위더스모터스 고샵[주식회사 위더스모터스]",
       "lat" : "37.559872921739",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2313,7 +2313,7 @@
       "lon" : "127.001858839392",
       "dropFlag" : "N",
       "address" : "서울특별시 중구 퇴계로 271 (오장동)",
-      "serialNumber" : "101041",
+      "serialNumber" : "123101041",
       "name" : "서울중구 위더스모터스 고샵[주식회사 위더스모터스]",
       "lat" : "37.563229521544",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2325,7 +2325,7 @@
       "lon" : "127.078942517996",
       "dropFlag" : "N",
       "address" : "서울특별시 중랑구 겸재로 99-4 (면목동)",
-      "serialNumber" : "100124",
+      "serialNumber" : "123100124",
       "name" : "서울중랑구 형제종합 고샵[형제종합오토바이]",
       "lat" : "37.5866869334674",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2337,7 +2337,7 @@
       "lon" : "127.25682153323",
       "dropFlag" : "N",
       "address" : "세종특별자치시 한누리대로 312 1층 112호(나성동,노블비지니스타운)",
-      "serialNumber" : "101434",
+      "serialNumber" : "123101434",
       "name" : "세종 닷스테이션 고샵[로지올 행복지점]",
       "lat" : "36.4921124786211",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2349,7 +2349,7 @@
       "lon" : "127.25682153323",
       "dropFlag" : "N",
       "address" : "세종특별자치시 한누리대로 312 1층 112호(나성동,노블비지니스타운)",
-      "serialNumber" : "101434",
+      "serialNumber" : "123101434",
       "name" : "세종 닷스테이션 고샵[로지올 행복지점]",
       "lat" : "36.4921124786211",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2362,7 +2362,7 @@
       "lon" : "126.974645232622",
       "dropFlag" : "N",
       "address" : "경기도 수원시 권선구 일월천로10번길 33 ",
-      "serialNumber" : "100103",
+      "serialNumber" : "123100103",
       "name" : "수원 (주)시우시우 고샵[주식회사 시우시우]",
       "lat" : "37.283286340959",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
@@ -2374,13 +2374,13 @@
       "lon" : "127.028501068816",
       "dropFlag" : "N",
       "address" : "경기 수원시 권선구 권선동 1027-1 (권선동)",
-      "serialNumber" : "101906",
+      "serialNumber" : "123101906",
       "name" : "수원 더바른컴퍼니 고샵[더 바른 컴퍼니]",
       "lat" : "37.258315433517",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg"
     },
     {
-      "serialNumber" : "101906",
+      "serialNumber" : "123101906",
       "lat" : "37.258315433517",
       "lon" : "127.028501068816",
       "releaseDate" : "",
@@ -2392,7 +2392,7 @@
       "name" : "수원 더바른컴퍼니 고샵[더 바른 컴퍼니]"
     },
     {
-      "serialNumber" : "101830",
+      "serialNumber" : "123101830",
       "lat" : "37.2634637058916",
       "lon" : "127.048935432452",
       "releaseDate" : "",
@@ -2404,7 +2404,7 @@
       "name" : "수원 동수원모터스 고샵[동수원오토바이]"
     },
     {
-      "serialNumber" : "102034",
+      "serialNumber" : "123102034",
       "lat" : "37.2532989696188",
       "lon" : "127.015329107403",
       "releaseDate" : "",
@@ -2416,7 +2416,7 @@
       "name" : "수원 루모스 고샵[루모스]"
     },
     {
-      "serialNumber" : "100151",
+      "serialNumber" : "123100151",
       "lat" : "37.2545900250511",
       "lon" : "127.027933576726",
       "releaseDate" : "",
@@ -2428,7 +2428,7 @@
       "name" : "수원 미케닉 고샵[미케닉(Mechanic)]"
     },
     {
-      "serialNumber" : "101965",
+      "serialNumber" : "123101965",
       "lat" : "37.2664539794241",
       "lon" : "127.049403883074",
       "releaseDate" : "",
@@ -2440,7 +2440,7 @@
       "name" : "수원 바이크24 고샵[바이크24]"
     },
     {
-      "serialNumber" : "101809",
+      "serialNumber" : "123101809",
       "lat" : "37.2863855954583",
       "lon" : "127.005993229796",
       "releaseDate" : "",
@@ -2452,7 +2452,7 @@
       "name" : "수원 스타모터스 고샵[스타모터스]"
     },
     {
-      "serialNumber" : "101802",
+      "serialNumber" : "123101802",
       "lat" : "37.2541690676453",
       "lon" : "126.99141346843",
       "releaseDate" : "",
@@ -2464,7 +2464,7 @@
       "name" : "수원 아띠모 고샵[아띠모 (수원점)]"
     },
     {
-      "serialNumber" : "102008",
+      "serialNumber" : "123102008",
       "lat" : "37.2961452501355",
       "lon" : "127.000197935442",
       "releaseDate" : "",
@@ -2476,7 +2476,7 @@
       "name" : "수원 에이스오토바이 고샵[에이스오토바이,진바이크]"
     },
     {
-      "serialNumber" : "102027",
+      "serialNumber" : "123102027",
       "lat" : "37.2552019824577",
       "lon" : "127.05914039289",
       "releaseDate" : "",
@@ -2488,7 +2488,7 @@
       "name" : "수원 에이앤티바이크 고샵[주식회사 에이앤티바이크]"
     },
     {
-      "serialNumber" : "101801",
+      "serialNumber" : "123101801",
       "lat" : "37.2692532762255",
       "lon" : "126.979836595482",
       "releaseDate" : "",
@@ -2500,7 +2500,7 @@
       "name" : "수원 영동오토바이 고샵[영동오토바이]"
     },
     {
-      "serialNumber" : "101840",
+      "serialNumber" : "123101840",
       "lat" : "37.27266836527",
       "lon" : "127.05132286712",
       "releaseDate" : "",
@@ -2512,7 +2512,7 @@
       "name" : "수원 오토샵 고샵[오토샵 진바이크 수원 매탄점]"
     },
     {
-      "serialNumber" : "101844",
+      "serialNumber" : "123101844",
       "lat" : "37.2683225050687",
       "lon" : "126.956423555594",
       "releaseDate" : "",
@@ -2524,7 +2524,7 @@
       "name" : "수원 와리가리 고샵[와리가리 바이크]"
     },
     {
-      "serialNumber" : "101800",
+      "serialNumber" : "123101800",
       "lat" : "37.25160204333",
       "lon" : "127.080395719215",
       "releaseDate" : "",
@@ -2536,7 +2536,7 @@
       "name" : "수원 제이제이 고샵[제이제이모터스]"
     },
     {
-      "serialNumber" : "101838",
+      "serialNumber" : "123101838",
       "lat" : "37.2489164316308",
       "lon" : "126.975360422257",
       "releaseDate" : "",
@@ -2548,7 +2548,7 @@
       "name" : "수원 진흥모터샵 고샵[진흥모터샵]"
     },
     {
-      "serialNumber" : "101501",
+      "serialNumber" : "123101501",
       "lat" : "37.2973195697934",
       "lon" : "127.043083037631",
       "releaseDate" : "",
@@ -2560,7 +2560,7 @@
       "name" : "수원 쿠키퍼 고샵[쿠키퍼]"
     },
     {
-      "serialNumber" : "101501",
+      "serialNumber" : "123101501",
       "lat" : "37.2973195697934",
       "lon" : "127.043083037631",
       "releaseDate" : "",
@@ -2572,7 +2572,7 @@
       "name" : "수원 쿠키퍼 고샵[쿠키퍼]"
     },
     {
-      "serialNumber" : "102028",
+      "serialNumber" : "123102028",
       "lat" : "37.2569075949365",
       "lon" : "127.019928012319",
       "releaseDate" : "",
@@ -2584,7 +2584,7 @@
       "name" : "수원 티티바이크 고샵[티티 바이크(tt bike)]"
     },
     {
-      "serialNumber" : "101799",
+      "serialNumber" : "123101799",
       "lat" : "37.3034412961664",
       "lon" : "126.991872019499",
       "releaseDate" : "",
@@ -2596,7 +2596,7 @@
       "name" : "수원 프로바이크 고샵[프로바이크]"
     },
     {
-      "serialNumber" : "102019",
+      "serialNumber" : "123102019",
       "lat" : "37.3056219169398",
       "lon" : "126.992223037398",
       "releaseDate" : "",
@@ -2608,7 +2608,7 @@
       "name" : "수원 행운오토바이 고샵[행운오토바이]"
     },
     {
-      "serialNumber" : "101833",
+      "serialNumber" : "123101833",
       "lat" : "37.2805877756502",
       "lon" : "126.970933047155",
       "releaseDate" : "",
@@ -2620,7 +2620,7 @@
       "name" : "수원 히어로모터스 고샵[배달대행 히어로]"
     },
     {
-      "serialNumber" : "101811",
+      "serialNumber" : "123101811",
       "lat" : "37.2725819776308",
       "lon" : "127.046469772304",
       "releaseDate" : "",
@@ -2634,7 +2634,7 @@
     {
       "lat" : "37.2431855811142",
       "telNo" : "010-8253-6140",
-      "serialNumber" : "101804",
+      "serialNumber" : "123101804",
       "lon" : "127.067692280205",
       "name" : "수원 KS라이더스 고샵[가요콜]",
       "dropFlag" : "N",
@@ -2646,7 +2646,7 @@
     {
       "lat" : "37.3315877471276",
       "telNo" : "010-9120-9913",
-      "serialNumber" : "102004",
+      "serialNumber" : "123102004",
       "lon" : "126.820826812058",
       "name" : "안산 탄탄대로 고샵[탄탄대로]",
       "dropFlag" : "N",
@@ -2658,7 +2658,7 @@
     {
       "lat" : "37.3315877471276",
       "telNo" : "010-9120-9913",
-      "serialNumber" : "102004",
+      "serialNumber" : "123102004",
       "lon" : "126.820826812058",
       "name" : "안산 탄탄대로 고샵[탄탄대로]",
       "dropFlag" : "N",
@@ -2670,7 +2670,7 @@
     {
       "lat" : "35.2103353197691",
       "telNo" : "",
-      "serialNumber" : "101705",
+      "serialNumber" : "123101705",
       "lon" : "129.010706603954",
       "name" : "영바이크[영바이크]",
       "dropFlag" : "N",
@@ -2682,7 +2682,7 @@
     {
       "lat" : "35.1538915259411",
       "telNo" : "",
-      "serialNumber" : "101694",
+      "serialNumber" : "123101694",
       "lon" : "129.029719375365",
       "name" : "오케이 모터스[오케이 모터스]",
       "dropFlag" : "Y",
@@ -2694,7 +2694,7 @@
     {
       "lat" : "35.1292873753314",
       "telNo" : "010-4563-9995",
-      "serialNumber" : "101691",
+      "serialNumber" : "123101691",
       "lon" : "129.087491217574",
       "name" : "왕바이크[왕바이크]",
       "dropFlag" : "N",
@@ -2706,7 +2706,7 @@
     {
       "lat" : "35.243242135953",
       "telNo" : "",
-      "serialNumber" : "101711",
+      "serialNumber" : "123101711",
       "lon" : "129.087210250832",
       "name" : "우주오토바이[우주오토바이]",
       "dropFlag" : "Y",
@@ -2718,7 +2718,7 @@
     {
       "lat" : "35.6281494876127",
       "telNo" : "010-9216-9191",
-      "serialNumber" : "100259",
+      "serialNumber" : "123100259",
       "lon" : "129.356628886836",
       "name" : "울산 마스터 고샵[마스터 바이크]",
       "dropFlag" : "N",
@@ -2730,7 +2730,7 @@
     {
       "lat" : "35.5115597936212",
       "telNo" : "010-3821-1072",
-      "serialNumber" : "100059",
+      "serialNumber" : "123100059",
       "lon" : "129.428800299438",
       "name" : "울산 손모터스 고샵[손 모터스]",
       "dropFlag" : "N",
@@ -2742,7 +2742,7 @@
     {
       "lat" : "35.5396835701585",
       "telNo" : "010-5573-7028",
-      "serialNumber" : "101446",
+      "serialNumber" : "123101446",
       "lon" : "129.423044552014",
       "name" : "울산 예스 고샵[예스바이크]",
       "dropFlag" : "N",
@@ -2754,7 +2754,7 @@
     {
       "lat" : "35.5573245480311",
       "telNo" : "",
-      "serialNumber" : "101806",
+      "serialNumber" : "123101806",
       "lon" : "129.310894177788",
       "name" : "울산 중구모터스 고샵[중구모터스]",
       "dropFlag" : "N",
@@ -2766,7 +2766,7 @@
     {
       "lat" : "35.5419773279651",
       "telNo" : "010-8693-5000",
-      "serialNumber" : "100058",
+      "serialNumber" : "123100058",
       "lon" : "129.328300409684",
       "name" : "울산남구 닷스테이션 고샵[울산바이크뱅크주식회사]",
       "dropFlag" : "N",
@@ -2778,7 +2778,7 @@
     {
       "lat" : "35.4932659631174",
       "telNo" : "010-8693-5000",
-      "serialNumber" : "101312",
+      "serialNumber" : "123101312",
       "lon" : "129.426488675449",
       "name" : "울산동구 닷스테이션 고샵[닷스테이션울산동구점]",
       "dropFlag" : "N",
@@ -2790,7 +2790,7 @@
     {
       "lat" : "35.5390409424129",
       "telNo" : "010-8553-9090",
-      "serialNumber" : "101793",
+      "serialNumber" : "123101793",
       "lon" : "129.3871106199",
       "name" : "울산북구 디알 고샵[디알모터스]",
       "dropFlag" : "N",
@@ -2802,7 +2802,7 @@
     {
       "lat" : "35.0916262304175",
       "telNo" : "010-4255-7798",
-      "serialNumber" : "101704",
+      "serialNumber" : "123101704",
       "lon" : "128.9735417196",
       "name" : "이건바이크[이건바이크]",
       "dropFlag" : "N",
@@ -2814,7 +2814,7 @@
     {
       "lat" : "37.4645858176517",
       "telNo" : "010-3590-4011",
-      "serialNumber" : "100021",
+      "serialNumber" : "123100021",
       "lon" : "126.705278756556",
       "name" : "인천 바이크뱅크인천 고샵[바이크뱅크(인천)]",
       "dropFlag" : "N",
@@ -2826,7 +2826,7 @@
     {
       "lat" : "35.8306376319779",
       "telNo" : "010-8280-8482",
-      "serialNumber" : "100666",
+      "serialNumber" : "123100666",
       "lon" : "127.129091778216",
       "name" : "전주 닷전주점 고샵[닷스테이션 전주점]",
       "dropFlag" : "N",
@@ -2838,7 +2838,7 @@
     {
       "lat" : "35.8119031798395",
       "telNo" : "010-5478-7680",
-      "serialNumber" : "101952",
+      "serialNumber" : "123101952",
       "lon" : "127.114368170524",
       "name" : "전주 딜리버리 고샵[딜리버리 바이크]",
       "dropFlag" : "N",
@@ -2850,7 +2850,7 @@
     {
       "lat" : "35.8266926121523",
       "telNo" : "010-7411-6999",
-      "serialNumber" : "100173",
+      "serialNumber" : "123100173",
       "lon" : "127.118716602358",
       "name" : "전주 리더모터스 고샵[리더모터스]",
       "dropFlag" : "N",
@@ -2862,7 +2862,7 @@
     {
       "lat" : "35.8074592472202",
       "telNo" : "010-4655-2154",
-      "serialNumber" : "101829",
+      "serialNumber" : "123101829",
       "lon" : "127.132118350688",
       "name" : "전주 스피드 고샵[스피드 모터스]",
       "dropFlag" : "N",
@@ -2874,7 +2874,7 @@
     {
       "lat" : "35.8227740491337",
       "telNo" : "010-7669-3031",
-      "serialNumber" : "101884",
+      "serialNumber" : "123101884",
       "lon" : "127.122289362933",
       "name" : "전주 열화 고샵[열화전차2]",
       "dropFlag" : "N",
@@ -2888,7 +2888,7 @@
       "dropFlag" : "N",
       "address" : "전북특별자치도 전주시 완산구 따박골9길 47 (중화산동1가) 101호",
       "lon" : "127.129986903315",
-      "serialNumber" : "101782",
+      "serialNumber" : "123101782",
       "lat" : "35.8114286543357",
       "telNo" : "010-3676-2617",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2900,7 +2900,7 @@
       "dropFlag" : "Y",
       "address" : "부산광역시 북구 와석장터로 14 (화명동)",
       "lon" : "129.01559181539",
-      "serialNumber" : "101708",
+      "serialNumber" : "123101708",
       "lat" : "35.2353441252592",
       "telNo" : "010-3593-5282",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2912,7 +2912,7 @@
       "dropFlag" : "N",
       "address" : "부산광역시 동구 조방로 35 (범일동)",
       "lon" : "129.061022818105",
-      "serialNumber" : "101696",
+      "serialNumber" : "123101696",
       "lat" : "35.1397505225727",
       "telNo" : "010-9907-7012",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2924,7 +2924,7 @@
       "dropFlag" : "Y",
       "address" : "부산광역시 해운대구 대천로42번길 28-7 (중동)",
       "lon" : "129.17155007333",
-      "serialNumber" : "101714",
+      "serialNumber" : "123101714",
       "lat" : "35.1707031921868",
       "telNo" : "010-3903-7078",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2936,7 +2936,7 @@
       "dropFlag" : "N",
       "address" : "부산광역시 수영구 광남로 196-2 (민락동)",
       "lon" : "129.120701275534",
-      "serialNumber" : "101734",
+      "serialNumber" : "123101734",
       "lat" : "35.158075248654",
       "telNo" : "010-4382-5852",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2948,7 +2948,7 @@
       "dropFlag" : "N",
       "address" : "부산광역시 부산진구 냉정로 250 (가야동)",
       "lon" : "129.027073181277",
-      "serialNumber" : "101733",
+      "serialNumber" : "123101733",
       "lat" : "35.1506701878217",
       "telNo" : "010-7444-8319",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2960,7 +2960,7 @@
       "dropFlag" : "N",
       "address" : "부산광역시 부산진구 전포대로 240 (전포동)",
       "lon" : "129.065613179694",
-      "serialNumber" : "101693",
+      "serialNumber" : "123101693",
       "lat" : "35.1579846692154",
       "telNo" : "010-3863-5537",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2972,7 +2972,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 마산합포구 3·15대로 412 101호",
       "lon" : "128.575576300696",
-      "serialNumber" : "100691",
+      "serialNumber" : "123100691",
       "lat" : "35.2112020294366",
       "telNo" : "010-2597-8582",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2984,7 +2984,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 마산합포구 3·15대로 412 101호",
       "lon" : "128.575576300696",
-      "serialNumber" : "100691",
+      "serialNumber" : "123100691",
       "lat" : "35.2112020294366",
       "telNo" : "010-2597-8582",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2996,7 +2996,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 진해구 이동로72번길 3 1층 102호(이동, 수진빌라)",
       "lon" : "128.699973970857",
-      "serialNumber" : "101777",
+      "serialNumber" : "123101777",
       "lat" : "35.1514811017161",
       "telNo" : "010-8648-1508",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3008,7 +3008,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 진해구 이동로72번길 3 1층 102호(이동, 수진빌라)",
       "lon" : "128.699973970857",
-      "serialNumber" : "101777",
+      "serialNumber" : "123101777",
       "lat" : "35.1514811017161",
       "telNo" : "010-8648-1508",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3020,7 +3020,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 성산구 신사로45번길 32 ",
       "lon" : "128.692691342314",
-      "serialNumber" : "100231",
+      "serialNumber" : "123100231",
       "lat" : "35.227061247315",
       "telNo" : "010-2597-8582",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3032,7 +3032,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 성산구 신사로45번길 32 ",
       "lon" : "128.692691342314",
-      "serialNumber" : "100231",
+      "serialNumber" : "123100231",
       "lat" : "35.227061247315",
       "telNo" : "010-2597-8582",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3044,7 +3044,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 의창구 차상로18번길 30 (팔용동)",
       "lon" : "128.637803281154",
-      "serialNumber" : "101778",
+      "serialNumber" : "123101778",
       "lat" : "35.2280983290413",
       "telNo" : "010-6467-4643",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3056,7 +3056,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 성산구 동산로 185 ",
       "lon" : "128.69471283901",
-      "serialNumber" : "100229",
+      "serialNumber" : "123100229",
       "lat" : "35.2240905729632",
       "telNo" : "010-8261-5070",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3068,7 +3068,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 성산구 용지로 57 1층",
       "lon" : "128.674923286092",
-      "serialNumber" : "100245",
+      "serialNumber" : "123100245",
       "lat" : "35.2216239287869",
       "telNo" : "010-8263-5058",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3080,7 +3080,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 의창구 사화로 28 지하1층(팔용동)",
       "lon" : "128.610422197787",
-      "serialNumber" : "101210",
+      "serialNumber" : "123101210",
       "lat" : "35.2562462140158",
       "telNo" : "01040047265",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3092,7 +3092,7 @@
       "dropFlag" : "N",
       "address" : "경상남도 창원시 진해구 충장로 403 ",
       "lon" : "128.69577397313",
-      "serialNumber" : "100262",
+      "serialNumber" : "123100262",
       "lat" : "35.1523062852151",
       "telNo" : "010-7744-7791",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3104,7 +3104,7 @@
       "dropFlag" : "N",
       "address" : "충청남도 천안시 서북구 불당5길 4-2 (불당동) 제 1동 101호",
       "lon" : "127.110216276323",
-      "serialNumber" : "101479",
+      "serialNumber" : "123101479",
       "lat" : "36.8024391397627",
       "telNo" : "010-2526-8347",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3116,7 +3116,7 @@
       "dropFlag" : "N",
       "address" : "충청남도 천안시 서북구 두정중7길 1-8 2동 1,2층(두정동)",
       "lon" : "127.138507633163",
-      "serialNumber" : "100146",
+      "serialNumber" : "123100146",
       "lat" : "36.8349878092984",
       "telNo" : "010-3929-0824",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3128,7 +3128,7 @@
       "dropFlag" : "N",
       "address" : "충청남도 천안시 서북구 백석로 247 (성정동,더갤러리) 1층 101호",
       "lon" : "127.137120672247",
-      "serialNumber" : "101758",
+      "serialNumber" : "123101758",
       "lat" : "36.818705043895",
       "telNo" : "",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3143,7 +3143,7 @@
       "operateTime" : "",
       "dropFlag" : "N",
       "lat" : "36.8183474564537",
-      "serialNumber" : "101964",
+      "serialNumber" : "123101964",
       "releaseDate" : "",
       "telNo" : "010-5430-1680"
     },
@@ -3155,7 +3155,7 @@
       "operateTime" : "",
       "dropFlag" : "N",
       "lat" : "36.6331525342564",
-      "serialNumber" : "101967",
+      "serialNumber" : "123101967",
       "releaseDate" : "",
       "telNo" : "010-5315-9518"
     },
@@ -3167,7 +3167,7 @@
       "operateTime" : "",
       "dropFlag" : "N",
       "lat" : "36.6331525342564",
-      "serialNumber" : "101967",
+      "serialNumber" : "123101967",
       "releaseDate" : "",
       "telNo" : "010-5315-9518"
     },
@@ -3179,7 +3179,7 @@
       "operateTime" : "",
       "dropFlag" : "N",
       "lat" : "36.6352724954051",
-      "serialNumber" : "102013",
+      "serialNumber" : "123102013",
       "releaseDate" : "",
       "telNo" : "010-2245-0746"
     },
@@ -3191,7 +3191,7 @@
       "operateTime" : "",
       "dropFlag" : "N",
       "lat" : "36.6395353632163",
-      "serialNumber" : "101935",
+      "serialNumber" : "123101935",
       "releaseDate" : "",
       "telNo" : "010-5745-0000"
     },
@@ -3203,7 +3203,7 @@
       "operateTime" : "",
       "dropFlag" : "N",
       "lat" : "36.6160234973064",
-      "serialNumber" : "101841",
+      "serialNumber" : "123101841",
       "releaseDate" : "",
       "telNo" : "010-4410-8901"
     },
@@ -3215,7 +3215,7 @@
       "operateTime" : "09:00~18:00",
       "dropFlag" : "Y",
       "lat" : "35.0967707146375",
-      "serialNumber" : "101698",
+      "serialNumber" : "123101698",
       "releaseDate" : "",
       "telNo" : "010-9184-8563"
     },
@@ -3227,7 +3227,7 @@
       "operateTime" : "09:00~18:00",
       "dropFlag" : "N",
       "lat" : "35.1355693382091",
-      "serialNumber" : "101689",
+      "serialNumber" : "123101689",
       "releaseDate" : "",
       "telNo" : "010-9565-5449"
     },
@@ -3239,7 +3239,7 @@
       "operateTime" : "09:00~18:00",
       "dropFlag" : "N",
       "lat" : "35.0991409301482",
-      "serialNumber" : "101699",
+      "serialNumber" : "123101699",
       "releaseDate" : "",
       "telNo" : "010-4812-5116"
     },
@@ -3251,7 +3251,7 @@
       "operateTime" : "09:00~18:00",
       "dropFlag" : "Y",
       "lat" : "35.0863379288862",
-      "serialNumber" : "101700",
+      "serialNumber" : "123101700",
       "releaseDate" : "",
       "telNo" : "010-8534-9901"
     },
@@ -3263,7 +3263,7 @@
       "operateTime" : "09:00~18:00",
       "dropFlag" : "Y",
       "lat" : "35.2290338601619",
-      "serialNumber" : "101713",
+      "serialNumber" : "123101713",
       "releaseDate" : "",
       "telNo" : "010-3033-7907"
     },
@@ -3275,7 +3275,7 @@
       "operateTime" : "09:00~18:00",
       "dropFlag" : "N",
       "lat" : "35.1199229119816",
-      "serialNumber" : "101692",
+      "serialNumber" : "123101692",
       "releaseDate" : "",
       "telNo" : ""
     },
@@ -3287,7 +3287,7 @@
       "operateTime" : "09:00~18:00",
       "dropFlag" : "N",
       "lat" : "35.1593464932421",
-      "serialNumber" : "101695",
+      "serialNumber" : "123101695",
       "releaseDate" : "",
       "telNo" : "010-9653-0308"
     }
