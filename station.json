@@ -10,7 +10,7 @@
       "zipcode" : "61087",
       "name" : "광주 신용동 ST",
       "stateTypeText" : "준비중",
-      "serialNumber" : "533",
+      "serialNumber" : "123533",
       "lat" : "35.2069694634198",
       "openTime" : "00:00",
       "state" : "5",
@@ -34,7 +34,7 @@
       "zipcode" : "16490",
       "name" : "수원 뜰커피전문점",
       "stateTypeText" : "운영중",
-      "serialNumber" : "532",
+      "serialNumber" : "123532",
       "lat" : "37.2642572313362",
       "openTime" : "00:00",
       "state" : "1",
@@ -58,7 +58,7 @@
       "zipcode" : "16361",
       "name" : "이마트24 원앙부부율전점",
       "stateTypeText" : "운영중",
-      "serialNumber" : "531",
+      "serialNumber" : "123531",
       "lat" : "37.2986929221648",
       "openTime" : "00:00",
       "state" : "1",
@@ -75,7 +75,7 @@
       "zipcode" : "61948",
       "name" : "CU 상무은혜점",
       "stateTypeText" : "준비중",
-      "serialNumber" : "530",
+      "serialNumber" : "123530",
       "lat" : "35.15406415027",
       "openTime" : "00:00",
       "state" : "5",
@@ -92,7 +92,7 @@
       "zipcode" : "16954",
       "name" : "용인 오밀목공학원",
       "stateTypeText" : "운영중",
-      "serialNumber" : "529",
+      "serialNumber" : "123529",
       "lat" : "37.2734723629638",
       "openTime" : "00:00",
       "state" : "1",
@@ -116,7 +116,7 @@
       "zipcode" : "16455",
       "name" : "수원 매산동 ST",
       "stateTypeText" : "운영중",
-      "serialNumber" : "528",
+      "serialNumber" : "123528",
       "lat" : "37.2685632079788",
       "openTime" : "00:00",
       "state" : "1",
@@ -140,7 +140,7 @@
       "zipcode" : "16399",
       "name" : "수원 수성카센터",
       "stateTypeText" : "운영중",
-      "serialNumber" : "527",
+      "serialNumber" : "123527",
       "lat" : "37.2668079014198",
       "openTime" : "00:00",
       "state" : "1",
@@ -164,7 +164,7 @@
       "zipcode" : "16391",
       "name" : "일품양평해장국 수원금곡점",
       "stateTypeText" : "운영중",
-      "serialNumber" : "526",
+      "serialNumber" : "123526",
       "lat" : "37.2747831401583",
       "openTime" : "00:00",
       "state" : "1",
@@ -176,7 +176,7 @@
       "lat" : "37.2489164316308",
       "openTime" : "00:00",
       "lon" : "126.975360422257",
-      "serialNumber" : "525",
+      "serialNumber" : "123525",
       "state" : "1",
       "attachFile" : [
         {
@@ -200,7 +200,7 @@
       "lat" : "35.1774022572043",
       "openTime" : "00:00",
       "lon" : "126.896552914301",
-      "serialNumber" : "524",
+      "serialNumber" : "123524",
       "state" : "1",
       "attachFile" : [
         {
@@ -224,7 +224,7 @@
       "lat" : "37.2841039191115",
       "openTime" : "00:00",
       "lon" : "127.033436850324",
-      "serialNumber" : "523",
+      "serialNumber" : "123523",
       "state" : "1",
       "attachFile" : [
         {
@@ -248,7 +248,7 @@
       "lat" : "36.3243552677062",
       "openTime" : "00:00",
       "lon" : "127.411596600442",
-      "serialNumber" : "522",
+      "serialNumber" : "123522",
       "state" : "1",
       "attachFile" : [
         {
@@ -272,7 +272,7 @@
       "lat" : "37.2805877756502",
       "openTime" : "00:00",
       "lon" : "126.970933047155",
-      "serialNumber" : "521",
+      "serialNumber" : "123521",
       "state" : "1",
       "attachFile" : [
         {
@@ -296,7 +296,7 @@
       "lat" : "37.2478654065299",
       "openTime" : "00:00",
       "lon" : "127.047776924264",
-      "serialNumber" : "520",
+      "serialNumber" : "123520",
       "state" : "1",
       "attachFile" : [
         {
@@ -320,7 +320,7 @@
       "lat" : "37.25160204333",
       "openTime" : "00:00",
       "lon" : "127.080395719215",
-      "serialNumber" : "519",
+      "serialNumber" : "123519",
       "state" : "1",
       "attachFile" : [
         {
@@ -344,7 +344,7 @@
       "lat" : "37.3034412961664",
       "openTime" : "00:00",
       "lon" : "126.991872019499",
-      "serialNumber" : "518",
+      "serialNumber" : "123518",
       "state" : "1",
       "attachFile" : [
         {
@@ -368,7 +368,7 @@
       "lat" : "37.2863855954583",
       "openTime" : "00:00",
       "lon" : "127.005993229796",
-      "serialNumber" : "517",
+      "serialNumber" : "123517",
       "state" : "1",
       "attachFile" : [
         {
@@ -392,7 +392,7 @@
       "lat" : "37.2692532762255",
       "openTime" : "00:00",
       "lon" : "126.979836595482",
-      "serialNumber" : "516",
+      "serialNumber" : "123516",
       "state" : "1",
       "attachFile" : [
         {
@@ -427,7 +427,7 @@
       "lon" : "127.048935432452",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "515",
+      "serialNumber" : "123515",
       "attachFile" : [
         {
           "serialNumber" : 428,
@@ -451,7 +451,7 @@
       "lon" : "126.99141346843",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "514",
+      "serialNumber" : "123514",
       "attachFile" : [
         {
           "serialNumber" : 429,
@@ -475,7 +475,7 @@
       "lon" : "127.043083037631",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "513",
+      "serialNumber" : "123513",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/513\/basic_f3ccdd27d2000e3f9255a7e3e2c48800.png",
@@ -499,7 +499,7 @@
       "lon" : "127.046469772304",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "512",
+      "serialNumber" : "123512",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/512\/basic_b1019f2200b106d07c960a41d2216a24.png",
@@ -523,7 +523,7 @@
       "lon" : "127.067692280205",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "511",
+      "serialNumber" : "123511",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/511\/basic_1f3a6fb77733e7a6c26c5c232e6accbc.png",
@@ -547,7 +547,7 @@
       "lon" : "126.974645232622",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "510",
+      "serialNumber" : "123510",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/510\/basic_f3ccdd27d2000e3f9255a7e3e2c48800.png",
@@ -571,7 +571,7 @@
       "lon" : "126.813330060808",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "509",
+      "serialNumber" : "123509",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/509\/basic_f3ccdd27d2000e3f9255a7e3e2c48800.png",
@@ -595,7 +595,7 @@
       "lon" : "126.87378472971373",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "508",
+      "serialNumber" : "123508",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/508\/basic_e13169eb50437ebf0bfba1f5e48e8696.png",
@@ -619,7 +619,7 @@
       "lon" : "129.087488263307",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "507",
+      "serialNumber" : "123507",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/507\/basic_b4d324acd8bfad37696cef39820cea97.png",
@@ -643,7 +643,7 @@
       "lon" : "129.10618126148",
       "closeTime" : "23:59",
       "stateTypeText" : "운영중",
-      "serialNumber" : "506",
+      "serialNumber" : "123506",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/506\/basic_eea2e32269a8d77e1d5c0b5bbd3f7f52.png",
@@ -664,7 +664,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "505",
+      "serialNumber" : "123505",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/505\/basic_f3ccdd27d2000e3f9255a7e3e2c48800.png",
@@ -688,7 +688,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "504",
+      "serialNumber" : "123504",
       "address" : "대구 달성군 유가읍 테크노순환로8길 41 (용리)",
       "releaseDate" : "",
       "zipcode" : "43023",
@@ -705,7 +705,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "503",
+      "serialNumber" : "123503",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/503\/basic_7e8370134adbd324d73d62d9b5a32d88.png",
@@ -729,7 +729,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "502",
+      "serialNumber" : "123502",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/502\/basic_d5dd073d5d4a9ba7c7c9718e82185ca0.png",
@@ -753,7 +753,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "501",
+      "serialNumber" : "123501",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/501\/basic_72e30ab7429ac3f7268997aedb92a44c.png",
@@ -777,7 +777,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "500",
+      "serialNumber" : "123500",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/500\/basic_aed8885a061331a76e6dc8ec6b40acc9.png",
@@ -801,7 +801,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "499",
+      "serialNumber" : "123499",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/499\/basic_22bfd461beb10eddbcf1bea999288bb6.png",
@@ -825,7 +825,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "498",
+      "serialNumber" : "123498",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/498\/basic_4d3e05a260ec997114f88d5e8bbadc26.png",
@@ -849,7 +849,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "497",
+      "serialNumber" : "123497",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/497\/basic_f3ccdd27d2000e3f9255a7e3e2c48800.png",
@@ -873,7 +873,7 @@
     {
       "closeTime" : "23:59",
       "navigationBit" : "Y",
-      "serialNumber" : "496",
+      "serialNumber" : "123496",
       "attachFile" : [
         {
           "attachThumbnailUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/496\/basic_d3a7223436d0c8070036e87561ddcf4c.png",
@@ -914,7 +914,7 @@
       "releaseDate" : "2025-04-03T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "495",
+      "serialNumber" : "123495",
       "state" : "1",
       "lon" : "127.372673270182"
     },
@@ -938,7 +938,7 @@
       "releaseDate" : "2025-03-25T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "494",
+      "serialNumber" : "123494",
       "state" : "1",
       "lon" : "127.3832336894005"
     },
@@ -962,7 +962,7 @@
       "releaseDate" : "2025-03-25T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "493",
+      "serialNumber" : "123493",
       "state" : "1",
       "lon" : "127.3600389924381"
     },
@@ -986,7 +986,7 @@
       "releaseDate" : "2025-03-21T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "492",
+      "serialNumber" : "123492",
       "state" : "1",
       "lon" : "128.55264351747"
     },
@@ -1010,7 +1010,7 @@
       "releaseDate" : "2025-03-12T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "491",
+      "serialNumber" : "123491",
       "state" : "1",
       "lon" : "128.52724850933603"
     },
@@ -1034,7 +1034,7 @@
       "releaseDate" : "2025-03-17T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "490",
+      "serialNumber" : "123490",
       "state" : "1",
       "lon" : "129.06097200542493"
     },
@@ -1058,7 +1058,7 @@
       "releaseDate" : "2025-03-26T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "489",
+      "serialNumber" : "123489",
       "state" : "1",
       "lon" : "126.885370619766"
     },
@@ -1082,7 +1082,7 @@
       "releaseDate" : "2025-03-25T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "488",
+      "serialNumber" : "123488",
       "state" : "1",
       "lon" : "127.135962917366"
     },
@@ -1099,7 +1099,7 @@
       "releaseDate" : "2025-02-28T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "487",
+      "serialNumber" : "123487",
       "state" : "1",
       "lon" : "129.305701501561"
     },
@@ -1116,13 +1116,13 @@
       "releaseDate" : "2025-02-28T00:00:00.000Z",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
-      "serialNumber" : "486",
+      "serialNumber" : "123486",
       "state" : "1",
       "lon" : "129.328414287583"
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "485",
+      "serialNumber" : "123485",
       "lon" : "128.548108794482",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1146,7 +1146,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "484",
+      "serialNumber" : "123484",
       "lon" : "128.56840462725796",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1170,7 +1170,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "483",
+      "serialNumber" : "123483",
       "lon" : "128.98158375038",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1187,7 +1187,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "482",
+      "serialNumber" : "123482",
       "lon" : "129.037572283549",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1211,7 +1211,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "481",
+      "serialNumber" : "123481",
       "lon" : "128.60711029951162",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1228,7 +1228,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "480",
+      "serialNumber" : "123480",
       "lon" : "126.860043898538",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1252,7 +1252,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "479",
+      "serialNumber" : "123479",
       "lon" : "128.555653086051",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1269,7 +1269,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "478",
+      "serialNumber" : "123478",
       "lon" : "127.023806240298",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1303,7 +1303,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "477",
+      "serialNumber" : "123477",
       "lon" : "128.7573736762905",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1320,7 +1320,7 @@
     },
     {
       "openTime" : "00:00",
-      "serialNumber" : "476",
+      "serialNumber" : "123476",
       "lon" : "127.290774288398",
       "closeTime" : "23:59",
       "navigationBit" : "Y",
@@ -1346,7 +1346,7 @@
       "releaseDate" : "2024-12-27T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "475",
+      "serialNumber" : "123475",
       "lon" : "129.015589696492",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1363,7 +1363,7 @@
       "releaseDate" : "2025-02-12T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "474",
+      "serialNumber" : "123474",
       "lon" : "126.772163453717",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1387,7 +1387,7 @@
       "releaseDate" : "2023-11-16T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "473",
+      "serialNumber" : "123473",
       "lon" : "129.0618146385244",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1411,7 +1411,7 @@
       "releaseDate" : "2024-12-23T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "472",
+      "serialNumber" : "123472",
       "lon" : "127.233673289634",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1445,7 +1445,7 @@
       "releaseDate" : "2024-12-23T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "471",
+      "serialNumber" : "123471",
       "lon" : "127.313584898622",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1479,7 +1479,7 @@
       "releaseDate" : "2025-02-06T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "470",
+      "serialNumber" : "123470",
       "lon" : "126.944696096343",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1503,7 +1503,7 @@
       "releaseDate" : "2025-01-21T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "469",
+      "serialNumber" : "123469",
       "lon" : "128.53357945656285",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1520,7 +1520,7 @@
       "releaseDate" : "2024-12-13T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "468",
+      "serialNumber" : "123468",
       "lon" : "127.046856330017",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1544,7 +1544,7 @@
       "releaseDate" : "2025-01-08T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "467",
+      "serialNumber" : "123467",
       "lon" : "126.984024479476",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1578,7 +1578,7 @@
       "releaseDate" : "2024-12-13T00:00:00.000Z",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "466",
+      "serialNumber" : "123466",
       "lon" : "128.639119502051",
       "telNo" : "1522-7116",
       "operateTime" : "24시간 운영중",
@@ -1633,7 +1633,7 @@
       "navigationBit" : "Y",
 
       "openTime" : "00:00",
-      "serialNumber" : "465",
+      "serialNumber" : "123465",
       "name" : "세종 새샘마을7단지",
       "lat" : "36.48618345408656",
       "telNo" : "1522-7116"
@@ -1657,7 +1657,7 @@
       ],
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "464",
+      "serialNumber" : "123464",
       "name" : " 청주 깡통주먹구이 하복대점",
       "lat" : "36.6323891701552",
       "telNo" : "1522-7116"
@@ -1681,7 +1681,7 @@
       ],
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "463",
+      "serialNumber" : "123463",
       "name" : " 야마하 청주흥덕점",
       "lat" : "36.6459640493328",
       "telNo" : "1522-7116"
@@ -1705,7 +1705,7 @@
       ],
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "462",
+      "serialNumber" : "123462",
       "name" : "상인 세븐빌",
       "lat" : "35.8137907177531",
       "telNo" : "1522-7116"
@@ -1722,7 +1722,7 @@
       "state" : "1",
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "461",
+      "serialNumber" : "123461",
       "name" : "커피문화팩토리",
       "lat" : "35.7999110148415",
       "telNo" : "1522-7116"
@@ -1756,7 +1756,7 @@
       ],
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "459",
+      "serialNumber" : "123459",
       "name" : "이마트24 오토밸리효성점",
       "lat" : "35.646894804383834",
       "telNo" : "1522-7116"
@@ -1790,7 +1790,7 @@
       ],
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "458",
+      "serialNumber" : "123458",
       "name" : "생각대로 다대8호점",
       "lat" : "35.0585083996847",
       "telNo" : "1522-7116"
@@ -1814,7 +1814,7 @@
       ],
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "457",
+      "serialNumber" : "123457",
       "name" : "우주오토바이",
       "lat" : "35.243242135953",
       "telNo" : "1522-7116"
@@ -1838,7 +1838,7 @@
       ],
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "456",
+      "serialNumber" : "123456",
       "name" : "안양 선우주차장",
       "lat" : "37.3982407433093",
       "telNo" : "1522-7116"
@@ -1862,7 +1862,7 @@
       ],
       "navigationBit" : "Y",
       "openTime" : "00:00",
-      "serialNumber" : "455",
+      "serialNumber" : "123455",
       "name" : "가야 ok모터스",
       "lat" : "35.1538915259411",
       "telNo" : "1522-7116"
@@ -1887,7 +1887,7 @@
       "lon" : "127.15116390677726",
       "lat" : "36.78725860549182",
       "telNo" : "1522-7116",
-      "serialNumber" : "454",
+      "serialNumber" : "123454",
       "state" : "1",
       "releaseDate" : "2024-10-07T00:00:00.000Z"
     },
@@ -1916,7 +1916,7 @@
       "lon" : "126.9401196630152",
       "lat" : "37.47089691306119",
       "telNo" : "1522-7116",
-      "serialNumber" : "453",
+      "serialNumber" : "123453",
       "state" : "1",
       "releaseDate" : "2024-11-11T00:00:00.000Z"
     },
@@ -1940,7 +1940,7 @@
       "lon" : "126.64568701451",
       "lat" : "37.4582764858876",
       "telNo" : "1522-7116",
-      "serialNumber" : "450",
+      "serialNumber" : "123450",
       "state" : "1",
       "releaseDate" : "2024-10-09T00:00:00.000Z"
     },
@@ -1957,7 +1957,7 @@
       "lon" : "126.95027614634",
       "lat" : "37.5568224381423",
       "telNo" : "070-4050-0517",
-      "serialNumber" : "449",
+      "serialNumber" : "123449",
       "state" : "1",
       "releaseDate" : "2024-10-02T00:00:00.000Z"
     },
@@ -1981,7 +1981,7 @@
       "lon" : "126.759662241607",
       "lat" : "37.4933284421762",
       "telNo" : "1522-7116",
-      "serialNumber" : "448",
+      "serialNumber" : "123448",
       "state" : "1",
       "releaseDate" : "2024-09-03T00:00:00.000Z"
     },
@@ -2005,7 +2005,7 @@
       "lon" : "129.040915636886",
       "lat" : "35.0862402003273",
       "telNo" : "1522-7116",
-      "serialNumber" : "447",
+      "serialNumber" : "123447",
       "state" : "1",
       "releaseDate" : "2024-09-12T00:00:00.000Z"
     },
@@ -2040,7 +2040,7 @@
       "lon" : "127.021102714819",
       "lat" : "37.6411006178728",
       "telNo" : "1522-7116",
-      "serialNumber" : "446",
+      "serialNumber" : "123446",
       "state" : "1",
       "releaseDate" : "2024-09-06T00:00:00.000Z"
     },
@@ -2064,7 +2064,7 @@
       "lon" : "127.093792586653",
       "lat" : "37.5885346349941",
       "telNo" : "1522-7116",
-      "serialNumber" : "445",
+      "serialNumber" : "123445",
       "state" : "1",
       "releaseDate" : ""
     },
@@ -2081,7 +2081,7 @@
       "lon" : "127.37130973538196",
       "lat" : "36.32692579507023",
       "telNo" : "1522-7116",
-      "serialNumber" : "444",
+      "serialNumber" : "123444",
       "state" : "1",
       "releaseDate" : "2025-06-27T00:00:00.000Z"
     },
@@ -2105,7 +2105,7 @@
       "lon" : "127.038647019657",
       "lat" : "37.5166719665458",
       "telNo" : "1522-7116",
-      "serialNumber" : "443",
+      "serialNumber" : "123443",
       "state" : "1",
       "releaseDate" : "2024-08-21T00:00:00.000Z"
     },
@@ -2121,7 +2121,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/442\/34e2f590405f70dd5615af2b15679c52.jpg"
         }
       ],
-      "serialNumber" : "442",
+      "serialNumber" : "123442",
       "lat" : "37.6187734988092",
       "lon" : "127.023735010537",
       "telNo" : "1522-7116",
@@ -2155,7 +2155,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/441\/d50b5aa8130df012a3ff3828f01c15e5.jpg"
         }
       ],
-      "serialNumber" : "441",
+      "serialNumber" : "123441",
       "lat" : "37.6537578800081",
       "lon" : "127.073223374721",
       "telNo" : "1522-7116",
@@ -2189,7 +2189,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/440\/74b74cc347f79528557a4c0e3a721fbf.jpg"
         }
       ],
-      "serialNumber" : "440",
+      "serialNumber" : "123440",
       "lat" : "36.3582570536921",
       "lon" : "127.432933999321",
       "telNo" : "1522-7116",
@@ -2223,7 +2223,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/439\/e7978cd520397a2376bdaad91aaf0dfc.jpg"
         }
       ],
-      "serialNumber" : "439",
+      "serialNumber" : "123439",
       "lat" : "35.211575850285",
       "lon" : "126.839441175549",
       "telNo" : "1522-7116",
@@ -2257,7 +2257,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/438\/6744bb5e2a3e4de33ad316eddf3e896e.jpg"
         }
       ],
-      "serialNumber" : "438",
+      "serialNumber" : "123438",
       "lat" : "37.4021548702733",
       "lon" : "126.724826252232",
       "telNo" : "1522-7116",
@@ -2291,7 +2291,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/437\/ce17fb437851dbc7ec539f2489f50ffc.jpg"
         }
       ],
-      "serialNumber" : "437",
+      "serialNumber" : "123437",
       "lat" : "37.5866869334674",
       "lon" : "127.078942517996",
       "telNo" : "1522-7116",
@@ -2308,7 +2308,7 @@
       "closeTime" : "23:59",
       "state" : "1",
       "stateTypeText" : "운영중",
-      "serialNumber" : "436",
+      "serialNumber" : "123436",
       "lat" : "37.6210021445837",
       "lon" : "127.018393327472",
       "telNo" : "1522-7116",
@@ -2332,7 +2332,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/435\/93aa21332cb3924eb3a135b8128adef8.jpg"
         }
       ],
-      "serialNumber" : "435",
+      "serialNumber" : "123435",
       "lat" : "35.8404754559609",
       "lon" : "128.762984580409",
       "telNo" : "1522-7116",
@@ -2366,7 +2366,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/434\/4be59a7d07fd163fd1aef6cd94457fee.jpg"
         }
       ],
-      "serialNumber" : "434",
+      "serialNumber" : "123434",
       "lat" : "37.327576021782185",
       "lon" : "126.84393264137178",
       "telNo" : "1522-7116",
@@ -2400,7 +2400,7 @@
           "attachBasicUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/433\/194516e5f9807f262cef66b8913c11ee.jpg"
         }
       ],
-      "serialNumber" : "433",
+      "serialNumber" : "123433",
       "lat" : "37.3505622266382",
       "lon" : "126.954014929964",
       "telNo" : "1522-7116",
@@ -2413,7 +2413,7 @@
       "releaseDate" : "2024-07-15T00:00:00.000Z"
     },
     {
-      "serialNumber" : "432",
+      "serialNumber" : "123432",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2437,7 +2437,7 @@
       "releaseDate" : "2024-07-25T00:00:00.000Z"
     },
     {
-      "serialNumber" : "431",
+      "serialNumber" : "123431",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2471,7 +2471,7 @@
       "releaseDate" : "2024-07-25T00:00:00.000Z"
     },
     {
-      "serialNumber" : "430",
+      "serialNumber" : "123430",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2505,7 +2505,7 @@
       "releaseDate" : "2024-11-25T00:00:00.000Z"
     },
     {
-      "serialNumber" : "429",
+      "serialNumber" : "123429",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2539,7 +2539,7 @@
       "releaseDate" : "2024-07-17T00:00:00.000Z"
     },
     {
-      "serialNumber" : "428",
+      "serialNumber" : "123428",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2573,7 +2573,7 @@
       "releaseDate" : "2024-07-25T00:00:00.000Z"
     },
     {
-      "serialNumber" : "427",
+      "serialNumber" : "123427",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2607,7 +2607,7 @@
       "releaseDate" : "2024-10-29T00:00:00.000Z"
     },
     {
-      "serialNumber" : "424",
+      "serialNumber" : "123424",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2641,7 +2641,7 @@
       "releaseDate" : "2024-07-04T00:00:00.000Z"
     },
     {
-      "serialNumber" : "423",
+      "serialNumber" : "123423",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2675,7 +2675,7 @@
       "releaseDate" : "2024-10-20T00:00:00.000Z"
     },
     {
-      "serialNumber" : "422",
+      "serialNumber" : "123422",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2699,7 +2699,7 @@
       "releaseDate" : "2024-06-17T00:00:00.000Z"
     },
     {
-      "serialNumber" : "421",
+      "serialNumber" : "123421",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "openTime" : "00:00",
@@ -2743,7 +2743,7 @@
         }
       ],
       "zipcode" : "50538",
-      "serialNumber" : "420",
+      "serialNumber" : "123420",
       "operateTime" : "24시간 운영중",
       "lon" : "129.156977411594",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2777,7 +2777,7 @@
         }
       ],
       "zipcode" : "42231",
-      "serialNumber" : "419",
+      "serialNumber" : "123419",
       "operateTime" : "24시간 운영중",
       "lon" : "128.615144687493",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2811,7 +2811,7 @@
         }
       ],
       "zipcode" : "42006",
-      "serialNumber" : "418",
+      "serialNumber" : "123418",
       "operateTime" : "24시간 운영중",
       "lon" : "128.616567813177",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2835,7 +2835,7 @@
         }
       ],
       "zipcode" : "06200",
-      "serialNumber" : "417",
+      "serialNumber" : "123417",
       "operateTime" : "24시간 운영중",
       "lon" : "127.054010518428",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2859,7 +2859,7 @@
         }
       ],
       "zipcode" : "01859",
-      "serialNumber" : "416",
+      "serialNumber" : "123416",
       "operateTime" : "24시간 운영중",
       "lon" : "127.072496274418",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2883,7 +2883,7 @@
         }
       ],
       "zipcode" : "02850",
-      "serialNumber" : "415",
+      "serialNumber" : "123415",
       "operateTime" : "24시간 운영중",
       "lon" : "127.019588773468",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2907,7 +2907,7 @@
         }
       ],
       "zipcode" : "04413",
-      "serialNumber" : "414",
+      "serialNumber" : "123414",
       "operateTime" : "24시간 운영중",
       "lon" : "126.996892484243",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2931,7 +2931,7 @@
         }
       ],
       "zipcode" : "05388",
-      "serialNumber" : "413",
+      "serialNumber" : "123413",
       "operateTime" : "24시간 운영중",
       "lon" : "127.128534749374",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2955,7 +2955,7 @@
         }
       ],
       "zipcode" : "46974",
-      "serialNumber" : "410",
+      "serialNumber" : "123410",
       "operateTime" : "24시간 운영중",
       "lon" : "128.985217978771",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -2980,7 +2980,7 @@
         }
       ],
       "zipcode" : "41424",
-      "serialNumber" : "409",
+      "serialNumber" : "123409",
       "operateTime" : "24시간 운영중",
       "lon" : "128.564354354932",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -3001,7 +3001,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2024-06-12T00:00:00.000Z",
       "lon" : "129.423044552014",
-      "serialNumber" : "408",
+      "serialNumber" : "123408",
       "state" : "1",
       "zipcode" : "44010",
       "name" : "예스바이크 울산점",
@@ -3025,7 +3025,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2024-06-05T00:00:00.000Z",
       "lon" : "129.426715236247",
-      "serialNumber" : "407",
+      "serialNumber" : "123407",
       "state" : "1",
       "zipcode" : "44053",
       "name" : "생각대로 울산일산점",
@@ -3049,7 +3049,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "",
       "lon" : "127.03504156213",
-      "serialNumber" : "405",
+      "serialNumber" : "123405",
       "state" : "1",
       "zipcode" : "01462",
       "name" : "나들가게 생큐21 창동점",
@@ -3073,7 +3073,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2025-01-24T00:00:00.000Z",
       "lon" : "129.107428043469",
-      "serialNumber" : "404",
+      "serialNumber" : "123404",
       "state" : "1",
       "zipcode" : "48312",
       "name" : "부산 진주떡집",
@@ -3097,7 +3097,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2024-06-11T00:00:00.000Z",
       "lon" : "129.042166300852",
-      "serialNumber" : "403",
+      "serialNumber" : "123403",
       "state" : "1",
       "zipcode" : "47138",
       "name" : "부산 당감로 ST",
@@ -3121,7 +3121,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2025-07-15T00:00:00.000Z",
       "lon" : "128.977086608478",
-      "serialNumber" : "402",
+      "serialNumber" : "123402",
       "state" : "1",
       "zipcode" : "49466",
       "name" : "부산 신화바이크",
@@ -3146,7 +3146,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2024-05-21T00:00:00.000Z",
       "lon" : "128.625198723254",
-      "serialNumber" : "401",
+      "serialNumber" : "123401",
       "state" : "1",
       "zipcode" : "42019",
       "name" : "범어역 제이빌",
@@ -3170,7 +3170,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2024-05-17T00:00:00.000Z",
       "lon" : "128.57437725886",
-      "serialNumber" : "400",
+      "serialNumber" : "123400",
       "state" : "1",
       "zipcode" : "41418",
       "name" : "쭈삼가(구)쭈꾸미가",
@@ -3194,7 +3194,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2024-06-14T00:00:00.000Z",
       "lon" : "128.985271437846",
-      "serialNumber" : "399",
+      "serialNumber" : "123399",
       "state" : "1",
       "zipcode" : "49402",
       "name" : "부산 경동오토바이 괴정점",
@@ -3218,7 +3218,7 @@
       "operateTime" : "24시간 운영중",
       "releaseDate" : "2024-05-10T00:00:00.000Z",
       "lon" : "129.023153212829",
-      "serialNumber" : "398",
+      "serialNumber" : "123398",
       "state" : "1",
       "zipcode" : "49215",
       "name" : "부산 경동모터스 동대신점",
@@ -3245,7 +3245,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "397",
+      "serialNumber" : "123397",
       "stateTypeText" : "운영중",
       "lat" : "37.4581057955831",
       "operateTime" : "24시간 운영중",
@@ -3269,7 +3269,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "396",
+      "serialNumber" : "123396",
       "stateTypeText" : "운영중",
       "lat" : "35.8513724113597",
       "operateTime" : "24시간 운영중",
@@ -3293,7 +3293,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "395",
+      "serialNumber" : "123395",
       "stateTypeText" : "운영중",
       "lat" : "37.508237485177",
       "operateTime" : "24시간 운영중",
@@ -3317,7 +3317,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "393",
+      "serialNumber" : "123393",
       "stateTypeText" : "운영중",
       "lat" : "37.5589564100718",
       "operateTime" : "24시간 운영중",
@@ -3341,7 +3341,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "392",
+      "serialNumber" : "123392",
       "stateTypeText" : "운영중",
       "lat" : "37.4856056151024",
       "operateTime" : "24시간 운영중",
@@ -3365,7 +3365,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "391",
+      "serialNumber" : "123391",
       "stateTypeText" : "운영중",
       "lat" : "36.818705043895",
       "operateTime" : "24시간 운영중",
@@ -3389,7 +3389,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "390",
+      "serialNumber" : "123390",
       "stateTypeText" : "운영중",
       "lat" : "35.1329513878404",
       "operateTime" : "24시간 운영중",
@@ -3413,7 +3413,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "389",
+      "serialNumber" : "123389",
       "stateTypeText" : "운영중",
       "lat" : "35.9271957942669",
       "operateTime" : "24시간 운영중",
@@ -3437,7 +3437,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "388",
+      "serialNumber" : "123388",
       "stateTypeText" : "운영중",
       "lat" : "35.937735",
       "operateTime" : "24시간 운영중",
@@ -3461,7 +3461,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "state" : "1",
       "navigationBit" : "Y",
-      "serialNumber" : "386",
+      "serialNumber" : "123386",
       "stateTypeText" : "운영중",
       "lat" : "37.6667117535544",
       "operateTime" : "24시간 운영중",
@@ -3476,7 +3476,7 @@
     },
     {
       "releaseDate" : "2024-04-03T00:00:00.000Z",
-      "serialNumber" : "385",
+      "serialNumber" : "123385",
       "closeTime" : "23:59",
       "lon" : "126.915002095723",
       "address" : "서울 은평구 역촌동 45-60 (역촌동)",
@@ -3500,7 +3500,7 @@
     },
     {
       "releaseDate" : "2024-04-19T00:00:00.000Z",
-      "serialNumber" : "384",
+      "serialNumber" : "123384",
       "closeTime" : "23:59",
       "lon" : "127.017442909414",
       "address" : "서울 서초구 서초중앙로22길 62 (서초동, 유성빌딩)",
@@ -3524,7 +3524,7 @@
     },
     {
       "releaseDate" : "2024-03-14T00:00:00.000Z",
-      "serialNumber" : "383",
+      "serialNumber" : "123383",
       "closeTime" : "23:59",
       "lon" : "126.914432703564",
       "address" : "서울 은평구 증산로 437 (신사동)",
@@ -3548,7 +3548,7 @@
     },
     {
       "releaseDate" : "2024-02-29T00:00:00.000Z",
-      "serialNumber" : "382",
+      "serialNumber" : "123382",
       "closeTime" : "23:59",
       "lon" : "127.335213220523",
       "address" : "대전 유성구 구암동 608-4 (구암동)",
@@ -3572,7 +3572,7 @@
     },
     {
       "releaseDate" : "2025-06-27T00:00:00.000Z",
-      "serialNumber" : "380",
+      "serialNumber" : "123380",
       "closeTime" : "23:59",
       "lon" : "127.451188815022",
       "address" : "충북 청주시 서원구 장전로 26 (성화동)",
@@ -3596,7 +3596,7 @@
     },
     {
       "releaseDate" : "2024-02-27T00:00:00.000Z",
-      "serialNumber" : "379",
+      "serialNumber" : "123379",
       "closeTime" : "23:59",
       "lon" : "127.441464812293",
       "address" : "충북 청주시 흥덕구 가로수로 1332 (복대동)",
@@ -3620,7 +3620,7 @@
     },
     {
       "releaseDate" : "2024-05-02T00:00:00.000Z",
-      "serialNumber" : "378",
+      "serialNumber" : "123378",
       "closeTime" : "23:59",
       "lon" : "126.770502437232",
       "address" : "경기 부천시 원미구 중동로254번길 27 (중동, 프린스프라자)",
@@ -3644,7 +3644,7 @@
     },
     {
       "releaseDate" : "2024-03-04T00:00:00.000Z",
-      "serialNumber" : "377",
+      "serialNumber" : "123377",
       "closeTime" : "23:59",
       "lon" : "127.031339978491",
       "address" : "서울 강남구 도산대로34길 21 (논현동)",
@@ -3668,7 +3668,7 @@
     },
     {
       "releaseDate" : "2024-02-15T00:00:00.000Z",
-      "serialNumber" : "376",
+      "serialNumber" : "123376",
       "closeTime" : "23:59",
       "lon" : "126.736230067513",
       "address" : "인천 남동구 만수동 1081-2 (만수동, 무궁화타운)",
@@ -3685,7 +3685,7 @@
     },
     {
       "releaseDate" : "2024-01-25T00:00:00.000Z",
-      "serialNumber" : "373",
+      "serialNumber" : "123373",
       "closeTime" : "23:59",
       "lon" : "129.067032752699",
       "address" : "부산 부산진구 서전로68번길 38-3 (전포동)",
@@ -3726,7 +3726,7 @@
       "releaseDate" : "2024-02-07T00:00:00.000Z",
       "name" : "서울 한국오토바이",
       "state" : "1",
-      "serialNumber" : "372",
+      "serialNumber" : "123372",
       "zipcode" : "05325",
       "lon" : "127.130398402933",
       "operateTime" : "24시간 운영중"
@@ -3750,7 +3750,7 @@
       "releaseDate" : "2024-02-05T00:00:00.000Z",
       "name" : "생각대로 부산북구점",
       "state" : "1",
-      "serialNumber" : "371",
+      "serialNumber" : "123371",
       "zipcode" : "46601",
       "lon" : "129.02226635943",
       "operateTime" : "24시간 운영중"
@@ -3774,7 +3774,7 @@
       "releaseDate" : "",
       "name" : "생각대로 남동스타점",
       "state" : "1",
-      "serialNumber" : "370",
+      "serialNumber" : "123370",
       "zipcode" : "21536",
       "lon" : "126.719446313898",
       "operateTime" : "24시간 운영중"
@@ -3798,7 +3798,7 @@
       "releaseDate" : "2024-01-18T00:00:00.000Z",
       "name" : "생각대로 서부산센터",
       "state" : "1",
-      "serialNumber" : "369",
+      "serialNumber" : "123369",
       "zipcode" : "49223",
       "lon" : "129.02068346047",
       "operateTime" : "24시간 운영중"
@@ -3822,7 +3822,7 @@
       "releaseDate" : "2024-01-24T00:00:00.000Z",
       "name" : "닷스테이션 대전서구점",
       "state" : "1",
-      "serialNumber" : "368",
+      "serialNumber" : "123368",
       "zipcode" : "35252",
       "lon" : "127.401347304823",
       "operateTime" : "24시간 운영중"
@@ -3846,7 +3846,7 @@
       "releaseDate" : "2024-01-18T00:00:00.000Z",
       "name" : "거제 국제샤시",
       "state" : "1",
-      "serialNumber" : "366",
+      "serialNumber" : "123366",
       "zipcode" : "53290",
       "lon" : "128.634021923442",
       "operateTime" : "24시간 운영중"
@@ -3863,7 +3863,7 @@
       "releaseDate" : "2024-02-06T00:00:00.000Z",
       "name" : "와플대학 한양대캠퍼스점",
       "state" : "1",
-      "serialNumber" : "365",
+      "serialNumber" : "123365",
       "zipcode" : "04760",
       "lon" : "127.039465893064",
       "operateTime" : "24시간 운영중"
@@ -3887,7 +3887,7 @@
       "releaseDate" : "2024-01-03T00:00:00.000Z",
       "name" : "닷스테이션 광주남구점",
       "state" : "1",
-      "serialNumber" : "364",
+      "serialNumber" : "123364",
       "zipcode" : "61656",
       "lon" : "126.901334480018",
       "operateTime" : "24시간 운영중"
@@ -3911,7 +3911,7 @@
       "releaseDate" : "2024-01-10T00:00:00.000Z",
       "name" : "굽네치킨 대구혁신점",
       "state" : "1",
-      "serialNumber" : "363",
+      "serialNumber" : "123363",
       "zipcode" : "41067",
       "lon" : "128.722536452472",
       "operateTime" : "24시간 운영중"
@@ -3935,7 +3935,7 @@
       "releaseDate" : "2024-01-11T00:00:00.000Z",
       "name" : "생각대로 화명1호점",
       "state" : "1",
-      "serialNumber" : "362",
+      "serialNumber" : "123362",
       "zipcode" : "46527",
       "lon" : "129.009227071317",
       "operateTime" : "24시간 운영중"
@@ -3959,7 +3959,7 @@
       ],
       "closeTime" : "23:59",
       "lon" : "128.600602316379",
-      "serialNumber" : "361",
+      "serialNumber" : "123361",
       "lat" : "35.8479272813175",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -3983,7 +3983,7 @@
       ],
       "closeTime" : "23:59",
       "lon" : "128.640189615082",
-      "serialNumber" : "360",
+      "serialNumber" : "123360",
       "lat" : "34.8890898458132",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -4007,7 +4007,7 @@
       ],
       "closeTime" : "23:59",
       "lon" : "129.120020426099",
-      "serialNumber" : "359",
+      "serialNumber" : "123359",
       "lat" : "35.1608322534273",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -4031,7 +4031,7 @@
       ],
       "closeTime" : "23:59",
       "lon" : "129.08379599568565",
-      "serialNumber" : "357",
+      "serialNumber" : "123357",
       "lat" : "35.19981170987628",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -4048,7 +4048,7 @@
       "zipcode" : "41121",
       "closeTime" : "23:59",
       "lon" : "128.699545744115",
-      "serialNumber" : "356",
+      "serialNumber" : "123356",
       "lat" : "35.8684557142501",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -4072,7 +4072,7 @@
       ],
       "closeTime" : "23:59",
       "lon" : "126.946184167543",
-      "serialNumber" : "355",
+      "serialNumber" : "123355",
       "lat" : "37.4824907783417",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -4096,7 +4096,7 @@
       ],
       "closeTime" : "23:59",
       "lon" : "129.370275492735",
-      "serialNumber" : "354",
+      "serialNumber" : "123354",
       "lat" : "35.5842850296772",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -4120,7 +4120,7 @@
       ],
       "closeTime" : "23:59",
       "lon" : "127.075673011071",
-      "serialNumber" : "353",
+      "serialNumber" : "123353",
       "lat" : "37.6150504534928",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -4144,7 +4144,7 @@
       ],
       "closeTime" : "23:59",
       "lon" : "127.033154205141",
-      "serialNumber" : "352",
+      "serialNumber" : "123352",
       "lat" : "37.6512959913479",
       "telNo" : "1522-7116",
       "state" : "1"
@@ -4168,13 +4168,13 @@
       ],
       "closeTime" : "23:59",
       "lon" : "127.036395300621",
-      "serialNumber" : "351",
+      "serialNumber" : "123351",
       "lat" : "37.6581700722672",
       "telNo" : "1522-7116",
       "state" : "1"
     },
     {
-      "serialNumber" : "350",
+      "serialNumber" : "123350",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "광주 서구 화정로49번길 3 (쌍촌동)",
@@ -4208,7 +4208,7 @@
       "releaseDate" : "2024-06-25T00:00:00.000Z"
     },
     {
-      "serialNumber" : "349",
+      "serialNumber" : "123349",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "경기 안양시 만안구 안양로 154 (안양동)",
@@ -4233,7 +4233,7 @@
     },
     {
 
-      "serialNumber" : "348",
+      "serialNumber" : "123348",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "전북 전주시 완산구 중화산동2가 635-9 (중화산동2가)",
@@ -4257,7 +4257,7 @@
       "releaseDate" : "2023-12-04T00:00:00.000Z"
     },
     {
-      "serialNumber" : "347",
+      "serialNumber" : "123347",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "대구 달서구 당산로 130 (성당동)",
@@ -4281,7 +4281,7 @@
       "releaseDate" : "2024-09-30T00:00:00.000Z"
     },
     {
-      "serialNumber" : "346",
+      "serialNumber" : "123346",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "울산 동구 방어진순환도로 575 (화정동)",
@@ -4305,7 +4305,7 @@
       "releaseDate" : ""
     },
     {
-      "serialNumber" : "345",
+      "serialNumber" : "123345",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "경기 군포시 산본로 341 (산본동, 현대코아텔)",
@@ -4329,7 +4329,7 @@
       "releaseDate" : "2023-12-07T00:00:00.000Z"
     },
     {
-      "serialNumber" : "343",
+      "serialNumber" : "123343",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "서울 강남구 테헤란로14길 36 (역삼동)",
@@ -4353,7 +4353,7 @@
       "releaseDate" : "2023-12-20T00:00:00.000Z"
     },
     {
-      "serialNumber" : "342",
+      "serialNumber" : "123342",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "전북 전주시 완산구 전룡로 50 (서신동)",
@@ -4377,7 +4377,7 @@
       "releaseDate" : "2023-11-27T00:00:00.000Z"
     },
     {
-      "serialNumber" : "341",
+      "serialNumber" : "123341",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "경남 양산시 삼호로 9 (삼호동)",
@@ -4401,7 +4401,7 @@
       "releaseDate" : "2023-11-23T00:00:00.000Z"
     },
     {
-      "serialNumber" : "340",
+      "serialNumber" : "123340",
       "navigationBit" : "Y",
       "closeTime" : "23:59",
       "address" : "울산 울주군 범서읍 굴화길 46 (굴화리)",
@@ -4431,7 +4431,7 @@
       "address" : "서울 중구 퇴계로76길 35 (무학동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "339",
+      "serialNumber" : "123339",
       "stateTypeText" : "운영중",
       "zipcode" : "04611",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4455,7 +4455,7 @@
       "address" : "서울 중구 퇴계로 271 (오장동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "338",
+      "serialNumber" : "123338",
       "stateTypeText" : "운영중",
       "zipcode" : "04559",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4479,7 +4479,7 @@
       "address" : "울산 중구 구교로 243 (반구동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "336",
+      "serialNumber" : "123336",
       "stateTypeText" : "운영중",
       "zipcode" : "44506",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4503,7 +4503,7 @@
       "address" : "서울 동대문구 망우로14길 28 (휘경동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "335",
+      "serialNumber" : "123335",
       "stateTypeText" : "운영중",
       "zipcode" : "02496",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4527,7 +4527,7 @@
       "address" : "경남 창원시 성산구 상남동 96-6 (상남동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "334",
+      "serialNumber" : "123334",
       "stateTypeText" : "운영중",
       "zipcode" : "51502",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4551,7 +4551,7 @@
       "address" : "충북 청주시 서원구 사직대로 129 (사창동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "333",
+      "serialNumber" : "123333",
       "stateTypeText" : "운영중",
       "zipcode" : "28568",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4575,7 +4575,7 @@
       "address" : "울산 북구 호계로 262 (호계동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "331",
+      "serialNumber" : "123331",
       "stateTypeText" : "운영중",
       "zipcode" : "44227",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4599,7 +4599,7 @@
       "address" : "부산 남구 동명로 106-1 (용호동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "330",
+      "serialNumber" : "123330",
       "stateTypeText" : "운영중",
       "zipcode" : "48564",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4623,7 +4623,7 @@
       "address" : "부산 남구 유엔로 102 (대연동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "329",
+      "serialNumber" : "123329",
       "stateTypeText" : "운영중",
       "zipcode" : "48484",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4647,7 +4647,7 @@
       "address" : "광주 동구 동명로 81 (지산동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
-      "serialNumber" : "328",
+      "serialNumber" : "123328",
       "stateTypeText" : "운영중",
       "zipcode" : "61433",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
@@ -4685,7 +4685,7 @@
       "address" : "광주 동구 구성로204번길 6 (대인동)",
       "name" : "생각대로 충장점",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "327",
+      "serialNumber" : "123327",
       "stateTypeText" : "운영중"
     },
     {
@@ -4709,7 +4709,7 @@
       "address" : "대전 동구 백룡로57번길 128 (자양동)",
       "name" : "생각대로 대전동구점",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "326",
+      "serialNumber" : "123326",
       "stateTypeText" : "운영중"
     },
     {
@@ -4733,7 +4733,7 @@
       "address" : "서울 송파구 송이로23길 4 (가락동, 티제이빌딩)",
       "name" : "서울 송파구 가락동 ST",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "325",
+      "serialNumber" : "123325",
       "stateTypeText" : "운영중"
     },
     {
@@ -4757,7 +4757,7 @@
       "address" : "경남 양산시 물금읍 백호2길 32-11 (가촌리)",
       "name" : "생각대로 양산지부",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "324",
+      "serialNumber" : "123324",
       "stateTypeText" : "운영중"
     },
     {
@@ -4781,7 +4781,7 @@
       "address" : "서울 관악구 봉천로 502 (봉천동)",
       "name" : "리더모터스 봉천점",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "323",
+      "serialNumber" : "123323",
       "stateTypeText" : "운영중"
     },
     {
@@ -4805,7 +4805,7 @@
       "address" : "부산 동래구 명장동 140-103 (명장동)",
       "name" : "생각대로 안락명장2호점",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "322",
+      "serialNumber" : "123322",
       "stateTypeText" : "운영중"
     },
     {
@@ -4829,7 +4829,7 @@
       "address" : "경남 거제시 고현동 133 (고현동)",
       "name" : "생각대로 거제고현점",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "321",
+      "serialNumber" : "123321",
       "stateTypeText" : "운영중"
     },
     {
@@ -4863,7 +4863,7 @@
       "address" : "부산 사상구 주감로 194 (주례동, 영남맨션)",
       "name" : "부산 사상 JK바이크",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "320",
+      "serialNumber" : "123320",
       "stateTypeText" : "운영중"
     },
     {
@@ -4887,7 +4887,7 @@
       "address" : "경북 경산시 강변서로 143 (사정동)",
       "name" : "딜버 경산남부지사",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "318",
+      "serialNumber" : "123318",
       "stateTypeText" : "운영중"
     },
     {
@@ -4911,7 +4911,7 @@
       "address" : "경남 창원시 마산합포구 월포동 2-119 (월포동)",
       "name" : "창원 하동가식육식당",
       "operateTime" : "24시간 운영중",
-      "serialNumber" : "317",
+      "serialNumber" : "123317",
       "stateTypeText" : "운영중"
     },
     {
@@ -4928,7 +4928,7 @@
           "serialNumber" : 126
         }
       ],
-      "serialNumber" : "316",
+      "serialNumber" : "123316",
       "lat" : "35.226729",
       "address" : "경남 창원시 성산구 중앙동 88-5",
       "zipcode" : "51514",
@@ -4952,7 +4952,7 @@
           "serialNumber" : 104
         }
       ],
-      "serialNumber" : "315",
+      "serialNumber" : "123315",
       "lat" : "37.5100176381198",
       "address" : "서울 강남구 봉은사로33길 33 (논현동, 양지직매상가)",
       "zipcode" : "06107",
@@ -4976,7 +4976,7 @@
           "serialNumber" : 143
         }
       ],
-      "serialNumber" : "314",
+      "serialNumber" : "123314",
       "lat" : "35.2103353197691",
       "address" : "부산 북구 덕천2길 103 (덕천동)",
       "zipcode" : "46577",
@@ -5000,7 +5000,7 @@
           "serialNumber" : 11
         }
       ],
-      "serialNumber" : "313",
+      "serialNumber" : "123313",
       "lat" : "35.8590644479538",
       "address" : "대구 달서구 선원로 18 (신당동)",
       "zipcode" : "42608",
@@ -5024,7 +5024,7 @@
           "serialNumber" : 144
         }
       ],
-      "serialNumber" : "312",
+      "serialNumber" : "123312",
       "lat" : "35.215865",
       "address" : "경남 창원시 마산합포구 산호동 46-27 (산호동)",
       "zipcode" : "51332",
@@ -5048,7 +5048,7 @@
           "serialNumber" : 136
         }
       ],
-      "serialNumber" : "311",
+      "serialNumber" : "123311",
       "lat" : "35.254209",
       "address" : "경남 창원시 의창구 도계동 915-1",
       "zipcode" : "51382",
@@ -5072,7 +5072,7 @@
           "serialNumber" : 452
         }
       ],
-      "serialNumber" : "309",
+      "serialNumber" : "123309",
       "lat" : "35.1983797202188",
       "address" : "부산 동래구 낙민로 22 (낙민동)",
       "zipcode" : "47879",
@@ -5096,7 +5096,7 @@
           "serialNumber" : 146
         }
       ],
-      "serialNumber" : "308",
+      "serialNumber" : "123308",
       "lat" : "35.1486344473276",
       "address" : "부산 사상구 가야대로366번길 53 (주례동)",
       "zipcode" : "47009",
@@ -5120,7 +5120,7 @@
           "serialNumber" : 125
         }
       ],
-      "serialNumber" : "307",
+      "serialNumber" : "123307",
       "lat" : "35.85413",
       "address" : "대구 달서구 이곡동로 55 (이곡동)",
       "zipcode" : "42620",
@@ -5144,7 +5144,7 @@
           "serialNumber" : 129
         }
       ],
-      "serialNumber" : "306",
+      "serialNumber" : "123306",
       "lat" : "37.499742",
       "address" : "서울 서초구 반포동 60-4 (반포동, 반포미도아파트)",
       "zipcode" : "06592",
@@ -5162,7 +5162,7 @@
       "releaseDate" : "2023-10-18T00:00:00.000Z",
       "lon" : "128.635813168308",
       "navigationBit" : "Y",
-      "serialNumber" : "305",
+      "serialNumber" : "123305",
       "state" : "1",
       "attachFile" : [
         {
@@ -5186,7 +5186,7 @@
       "releaseDate" : "2025-06-23T00:00:00.000Z",
       "lon" : "126.828524918193",
       "navigationBit" : "Y",
-      "serialNumber" : "304",
+      "serialNumber" : "123304",
       "state" : "1",
       "attachFile" : [
         {
@@ -5210,7 +5210,7 @@
       "releaseDate" : "2023-10-17T00:00:00.000Z",
       "lon" : "128.709641",
       "navigationBit" : "Y",
-      "serialNumber" : "303",
+      "serialNumber" : "123303",
       "state" : "1",
       "attachFile" : [
         {
@@ -5234,7 +5234,7 @@
       "releaseDate" : "2023-09-26T00:00:00.000Z",
       "lon" : "128.692428",
       "navigationBit" : "Y",
-      "serialNumber" : "302",
+      "serialNumber" : "123302",
       "state" : "1",
       "attachFile" : [
         {
@@ -5258,7 +5258,7 @@
       "releaseDate" : "2023-10-21T00:00:00.000Z",
       "lon" : "128.662461",
       "navigationBit" : "Y",
-      "serialNumber" : "301",
+      "serialNumber" : "123301",
       "state" : "1",
       "attachFile" : [
         {
@@ -5282,7 +5282,7 @@
       "releaseDate" : "2023-10-30T00:00:00.000Z",
       "lon" : "126.840674544742",
       "navigationBit" : "Y",
-      "serialNumber" : "300",
+      "serialNumber" : "123300",
       "state" : "1",
       "attachFile" : [
         {
@@ -5306,7 +5306,7 @@
       "releaseDate" : "2023-10-18T00:00:00.000Z",
       "lon" : "128.628076",
       "navigationBit" : "Y",
-      "serialNumber" : "299",
+      "serialNumber" : "123299",
       "state" : "1",
       "attachFile" : [
         {
@@ -5330,7 +5330,7 @@
       "releaseDate" : "2023-10-13T00:00:00.000Z",
       "lon" : "129.083459005128",
       "navigationBit" : "Y",
-      "serialNumber" : "298",
+      "serialNumber" : "123298",
       "state" : "1",
       "attachFile" : [
         {
@@ -5354,7 +5354,7 @@
       "releaseDate" : "2025-04-04T00:00:00.000Z",
       "lon" : "126.949034396023",
       "navigationBit" : "Y",
-      "serialNumber" : "297",
+      "serialNumber" : "123297",
       "state" : "1",
       "attachFile" : [
         {
@@ -5378,7 +5378,7 @@
       "releaseDate" : "2023-10-26T00:00:00.000Z",
       "lon" : "128.601772",
       "navigationBit" : "Y",
-      "serialNumber" : "296",
+      "serialNumber" : "123296",
       "state" : "1",
       "attachFile" : [
         {
@@ -5411,7 +5411,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-11-03T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "295",
+      "serialNumber" : "123295",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "37.6221128300483",
@@ -5435,7 +5435,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-09-26T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "294",
+      "serialNumber" : "123294",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "35.1309536339382",
@@ -5459,7 +5459,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-09-22T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "293",
+      "serialNumber" : "123293",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "37.5724894025765",
@@ -5483,7 +5483,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-09-22T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "292",
+      "serialNumber" : "123292",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "35.555664272228",
@@ -5507,7 +5507,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-09-22T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "291",
+      "serialNumber" : "123291",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "36.3312143240903",
@@ -5531,7 +5531,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-09-26T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "290",
+      "serialNumber" : "123290",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "35.157106",
@@ -5555,7 +5555,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-09-27T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "289",
+      "serialNumber" : "123289",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "35.175365",
@@ -5579,7 +5579,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-09-18T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "288",
+      "serialNumber" : "123288",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "35.206571",
@@ -5603,7 +5603,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-08-31T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "287",
+      "serialNumber" : "123287",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "35.1026964987115",
@@ -5627,7 +5627,7 @@
       "telNo" : "1522-7116",
       "releaseDate" : "2023-10-06T00:00:00.000Z",
       "closeTime" : "23:59",
-      "serialNumber" : "286",
+      "serialNumber" : "123286",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "lat" : "35.182813",
@@ -5656,7 +5656,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2023-09-18T00:00:00.000Z",
-      "serialNumber" : "285"
+      "serialNumber" : "123285"
     },
     {
       "zipcode" : "51366",
@@ -5681,7 +5681,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2023-09-05T00:00:00.000Z",
-      "serialNumber" : "284"
+      "serialNumber" : "123284"
     },
     {
       "zipcode" : "48421",
@@ -5705,7 +5705,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2025-06-04T00:00:00.000Z",
-      "serialNumber" : "283"
+      "serialNumber" : "123283"
     },
     {
       "zipcode" : "51297",
@@ -5729,7 +5729,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2023-09-05T00:00:00.000Z",
-      "serialNumber" : "281"
+      "serialNumber" : "123281"
     },
     {
       "zipcode" : "51355",
@@ -5753,7 +5753,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2023-09-05T00:00:00.000Z",
-      "serialNumber" : "280"
+      "serialNumber" : "123280"
     },
     {
       "zipcode" : "03986",
@@ -5777,7 +5777,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2023-08-30T00:00:00.000Z",
-      "serialNumber" : "279"
+      "serialNumber" : "123279"
     },
     {
       "zipcode" : "04018",
@@ -5794,7 +5794,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "",
-      "serialNumber" : "278"
+      "serialNumber" : "123278"
     },
     {
       "zipcode" : "55091",
@@ -5811,7 +5811,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2023-09-06T00:00:00.000Z",
-      "serialNumber" : "277"
+      "serialNumber" : "123277"
     },
     {
       "zipcode" : "04057",
@@ -5835,7 +5835,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2023-08-31T00:00:00.000Z",
-      "serialNumber" : "276"
+      "serialNumber" : "123276"
     },
     {
       "zipcode" : "03694",
@@ -5859,7 +5859,7 @@
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "releaseDate" : "2023-08-30T00:00:00.000Z",
-      "serialNumber" : "275"
+      "serialNumber" : "123275"
     },
     {
       "stateTypeText" : "운영중",
@@ -5878,7 +5878,7 @@
       "name" : "창원 명곡동 행정복지센터 부설주차장",
       "navigationBit" : "Y",
       "lat" : "35.25323",
-      "serialNumber" : "274",
+      "serialNumber" : "123274",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "경남 창원시 의창구 도계동 908",
@@ -5902,7 +5902,7 @@
       "name" : "광주 소연이네과일",
       "navigationBit" : "Y",
       "lat" : "35.1277022976722",
-      "serialNumber" : "273",
+      "serialNumber" : "123273",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "광주 남구 봉선1로 38 ",
@@ -5926,7 +5926,7 @@
       "name" : "생각대로 풍암금호점",
       "navigationBit" : "Y",
       "lat" : "35.1247411021842",
-      "serialNumber" : "272",
+      "serialNumber" : "123272",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "광주 서구 풍암동 999-4 (풍암동)",
@@ -5943,7 +5943,7 @@
       "name" : "서울 대성바이크",
       "navigationBit" : "Y",
       "lat" : "37.5858075296997",
-      "serialNumber" : "271",
+      "serialNumber" : "123271",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "서울 동대문구 청량리동 398 (청량리동)",
@@ -5967,7 +5967,7 @@
       "name" : "창원 사림동 자율방범대",
       "navigationBit" : "Y",
       "lat" : "35.242231",
-      "serialNumber" : "270",
+      "serialNumber" : "123270",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "경남 창원시 의창구 사림동 36-3 (사림동 자율방범대)",
@@ -5991,7 +5991,7 @@
       "name" : "석전동 공영주차장",
       "navigationBit" : "Y",
       "lat" : "35.229267",
-      "serialNumber" : "269",
+      "serialNumber" : "123269",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "경남 창원시 마산회원구 석전동 267 (석전동 공영주차장)",
@@ -6008,7 +6008,7 @@
       "name" : "생각대로 대전가오점",
       "navigationBit" : "Y",
       "lat" : "36.303502213849",
-      "serialNumber" : "268",
+      "serialNumber" : "123268",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "대전 동구 대전로 415 (가오동)",
@@ -6047,7 +6047,7 @@
       "name" : "대전 새롬빌딩 주차장",
       "navigationBit" : "Y",
       "lat" : "36.34782582217348",
-      "serialNumber" : "267",
+      "serialNumber" : "123267",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "대전 서구 둔산동 1225 (둔산동)",
@@ -6064,7 +6064,7 @@
       "name" : "닷스테이션 의창점",
       "navigationBit" : "Y",
       "lat" : "35.262977",
-      "serialNumber" : "266",
+      "serialNumber" : "123266",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "경남 창원시 의창구 소답동 116-1 (공영주차장)",
@@ -6088,7 +6088,7 @@
       "name" : "창원 봉곡동 공영주차장",
       "navigationBit" : "Y",
       "lat" : "35.248278",
-      "serialNumber" : "265",
+      "serialNumber" : "123265",
       "telNo" : "1522-7116",
       "closeTime" : "23:59",
       "address" : "경남 창원시 의창구 봉곡동 8 (공영주차장)",
@@ -6098,7 +6098,7 @@
     {
       "address" : "전북 전주시 완산구 척동7길 6-2 (효자동3가)",
       "telNo" : "1522-7116",
-      "serialNumber" : "264",
+      "serialNumber" : "123264",
       "zipcode" : "54961",
       "openTime" : "00:00",
       "lon" : "127.099560630021",
@@ -6122,7 +6122,7 @@
     {
       "address" : "대구 달서구 성서공단로11길 62 ",
       "telNo" : "1522-7116",
-      "serialNumber" : "263",
+      "serialNumber" : "123263",
       "zipcode" : "42713",
       "openTime" : "00:00",
       "lon" : "128.488227",
@@ -6146,7 +6146,7 @@
     {
       "address" : "인천 미추홀구 인주대로 430 (주안동)",
       "telNo" : "1522-7116",
-      "serialNumber" : "262",
+      "serialNumber" : "123262",
       "zipcode" : "22227",
       "openTime" : "00:00",
       "lon" : "126.684284325847",
@@ -6170,7 +6170,7 @@
     {
       "address" : "부산 동구 수정로 23-1 (수정동)",
       "telNo" : "1522-7116",
-      "serialNumber" : "260",
+      "serialNumber" : "123260",
       "zipcode" : "48783",
       "openTime" : "00:00",
       "lon" : "129.044356545637",
@@ -6194,7 +6194,7 @@
     {
       "address" : "부산 사상구 모라동 1328-22 (모라동)",
       "telNo" : "1522-7116",
-      "serialNumber" : "259",
+      "serialNumber" : "123259",
       "zipcode" : "46927",
       "openTime" : "00:00",
       "lon" : "128.993397767577",
@@ -6218,7 +6218,7 @@
     {
       "address" : "경기 부천시 신흥로 47 (심곡동)",
       "telNo" : "1522-7116",
-      "serialNumber" : "257",
+      "serialNumber" : "123257",
       "zipcode" : "14617",
       "openTime" : "00:00",
       "lon" : "126.776800245154",
@@ -6242,7 +6242,7 @@
     {
       "address" : "서울 도봉구 도봉로181길 13 (도봉동)",
       "telNo" : "1522-7116",
-      "serialNumber" : "256",
+      "serialNumber" : "123256",
       "zipcode" : "01304",
       "openTime" : "00:00",
       "lon" : "127.045170763739",
@@ -6266,7 +6266,7 @@
     {
       "address" : "경남 창원시 마산합포구 3.15대로 412 (상남동) 1층",
       "telNo" : "1522-7116",
-      "serialNumber" : "255",
+      "serialNumber" : "123255",
       "zipcode" : "51724",
       "openTime" : "00:00",
       "lon" : "128.575576300696",
@@ -6290,7 +6290,7 @@
     {
       "address" : "경남 창원시 의창구 팔용로419번길 6 (팔용동)",
       "telNo" : "1522-7116",
-      "serialNumber" : "254",
+      "serialNumber" : "123254",
       "zipcode" : "51377",
       "openTime" : "00:00",
       "lon" : "128.61157892835",
@@ -6314,7 +6314,7 @@
     {
       "address" : "부산 연제구 과정로276번길 28 (연산동, 연천시장)",
       "telNo" : "1522-7116",
-      "serialNumber" : "253",
+      "serialNumber" : "123253",
       "zipcode" : "47564",
       "openTime" : "00:00",
       "lon" : "129.098184",
@@ -6353,7 +6353,7 @@
       "name" : "생각대로 대구동구센터",
       "releaseDate" : "2023-08-04T00:00:00.000Z",
       "zipcode" : "41195",
-      "serialNumber" : "252",
+      "serialNumber" : "123252",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6377,7 +6377,7 @@
       "name" : "닷스테이션 동대문점",
       "releaseDate" : "2023-08-08T00:00:00.000Z",
       "zipcode" : "02617",
-      "serialNumber" : "249",
+      "serialNumber" : "123249",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6401,7 +6401,7 @@
       "name" : "대구 길오토바이",
       "releaseDate" : "2023-07-10T00:00:00.000Z",
       "zipcode" : "41529",
-      "serialNumber" : "247",
+      "serialNumber" : "123247",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6425,7 +6425,7 @@
       "name" : "닷스테이션 울산점",
       "releaseDate" : "2023-08-11T00:00:00.000Z",
       "zipcode" : "44703",
-      "serialNumber" : "245",
+      "serialNumber" : "123245",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6449,7 +6449,7 @@
       "name" : "생각대로 진월점",
       "releaseDate" : "2023-08-07T00:00:00.000Z",
       "zipcode" : "61735",
-      "serialNumber" : "243",
+      "serialNumber" : "123243",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6473,7 +6473,7 @@
       "name" : "닷스테이션 전주점",
       "releaseDate" : "2023-09-07T00:00:00.000Z",
       "zipcode" : "54938",
-      "serialNumber" : "242",
+      "serialNumber" : "123242",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6497,7 +6497,7 @@
       "name" : "생각대로 수성2점",
       "releaseDate" : "2023-08-01T00:00:00.000Z",
       "zipcode" : "42151",
-      "serialNumber" : "241",
+      "serialNumber" : "123241",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6521,7 +6521,7 @@
       "name" : "생각대로 들안로점",
       "releaseDate" : "2023-09-18T00:00:00.000Z",
       "zipcode" : "42001",
-      "serialNumber" : "240",
+      "serialNumber" : "123240",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6545,7 +6545,7 @@
       "name" : "생각대로 다사점",
       "releaseDate" : "2023-09-06T00:00:00.000Z",
       "zipcode" : "42911",
-      "serialNumber" : "238",
+      "serialNumber" : "123238",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6569,7 +6569,7 @@
       "name" : "창원 성산스포츠센터",
       "releaseDate" : "2023-07-05T00:00:00.000Z",
       "zipcode" : "51487",
-      "serialNumber" : "235",
+      "serialNumber" : "123235",
       "navigationBit" : "Y",
       "state" : "1",
       "stateTypeText" : "운영중",
@@ -6594,7 +6594,7 @@
       "lon" : "128.687185",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "233",
+      "serialNumber" : "123233",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "창원 용지문화공원"
@@ -6633,7 +6633,7 @@
       "lon" : "128.518954858277",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "232",
+      "serialNumber" : "123232",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "닷스테이션 달서점"
@@ -6657,7 +6657,7 @@
       "lon" : "128.627742818694",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "231",
+      "serialNumber" : "123231",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "대구 황금오토바이"
@@ -6691,7 +6691,7 @@
       "lon" : "128.645910797953",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "230",
+      "serialNumber" : "123230",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "닷스테이션 만촌점"
@@ -6715,7 +6715,7 @@
       "lon" : "128.638321490911",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "228",
+      "serialNumber" : "123228",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "생각대로 아양점"
@@ -6739,7 +6739,7 @@
       "lon" : "126.897779055882",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "227",
+      "serialNumber" : "123227",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "닷스테이션 독산점"
@@ -6763,7 +6763,7 @@
       "lon" : "128.985216232567",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "225",
+      "serialNumber" : "123225",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "프로바이크뱅크 사상점"
@@ -6780,7 +6780,7 @@
       "lon" : "129.086436357976",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "224",
+      "serialNumber" : "123224",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "닷스테이션 부산점"
@@ -6805,7 +6805,7 @@
       "lon" : "128.691479",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "223",
+      "serialNumber" : "123223",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "창원 장미공원"
@@ -6829,7 +6829,7 @@
       "lon" : "128.690308677201",
       "stateTypeText" : "운영중",
       "state" : "1",
-      "serialNumber" : "221",
+      "serialNumber" : "123221",
       "openTime" : "00:00",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "name" : "대구 영광모터스"
@@ -6848,7 +6848,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "220",
+      "serialNumber" : "123220",
       "address" : "대구 남구 대명로25길 17-19",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -6872,7 +6872,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "219",
+      "serialNumber" : "123219",
       "address" : "대구 수성구 달구벌대로 3307",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -6896,7 +6896,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "218",
+      "serialNumber" : "123218",
       "address" : "경남 창원시 성산구 반림동 5-2 반송공원 주차장",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -6920,7 +6920,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "216",
+      "serialNumber" : "123216",
       "address" : "경남 창원시 성산구 사파정동 628-6 늘푸른테니스장 주차장",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -6944,7 +6944,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "215",
+      "serialNumber" : "123215",
       "address" : "서울 강남구 봉은사로30길 15 (역삼동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -6968,7 +6968,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "214",
+      "serialNumber" : "123214",
       "address" : "경기 군포시 번영로 589",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -6992,7 +6992,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "212",
+      "serialNumber" : "123212",
       "address" : "대구 수성구 지산로11길 16-12",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7016,7 +7016,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "210",
+      "serialNumber" : "123210",
       "address" : "대구 북구 대학로15길 5 (산격동)",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7040,7 +7040,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "209",
+      "serialNumber" : "123209",
       "address" : "서울 서초구 동산로 52인성빌딩",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7064,7 +7064,7 @@
       "openTime" : "00:00",
       "closeTime" : "23:59",
       "telNo" : "1522-7116",
-      "serialNumber" : "208",
+      "serialNumber" : "123208",
       "address" : "경남 창원시 성산구 신사로45번길 32",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7085,7 +7085,7 @@
       "lat" : "35.879273",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "207",
+      "serialNumber" : "123207",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7109,7 +7109,7 @@
       "lat" : "35.8314316755161",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "206",
+      "serialNumber" : "123206",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7133,7 +7133,7 @@
       "lat" : "35.8622034482805",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "204",
+      "serialNumber" : "123204",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7157,7 +7157,7 @@
       "lat" : "37.3358673503644",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "203",
+      "serialNumber" : "123203",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7181,7 +7181,7 @@
       "lat" : "37.4645858176517",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "202",
+      "serialNumber" : "123202",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7205,7 +7205,7 @@
       "lat" : "36.4622979589167",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "199",
+      "serialNumber" : "123199",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7229,7 +7229,7 @@
       "lat" : "36.481140",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "197",
+      "serialNumber" : "123197",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7253,7 +7253,7 @@
       "lat" : "36.482813152508",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "194",
+      "serialNumber" : "123194",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7277,7 +7277,7 @@
       "lat" : "36.494971",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "193",
+      "serialNumber" : "123193",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7301,7 +7301,7 @@
       "lat" : "36.507245",
       "telNo" : "1522-7116",
       "stateTypeText" : "운영중",
-      "serialNumber" : "192",
+      "serialNumber" : "123192",
       "state" : "1",
       "operateTime" : "24시간 운영중",
       "navigationBit" : "Y",
@@ -7318,7 +7318,7 @@
       "zipcode" : "30100",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "36.5125962717059",
-      "serialNumber" : "190",
+      "serialNumber" : "123190",
       "lon" : "127.242663195322",
       "name" : "세종 하나타워",
       "stateTypeText" : "운영중",
@@ -7342,7 +7342,7 @@
       "zipcode" : "30098",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "36.5989577126847",
-      "serialNumber" : "189",
+      "serialNumber" : "123189",
       "lon" : "127.295155586817",
       "name" : "세종 조치원읍 침산리 ST",
       "stateTypeText" : "운영중",
@@ -7366,7 +7366,7 @@
       "zipcode" : "30098",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "36.5118758593472",
-      "serialNumber" : "188",
+      "serialNumber" : "123188",
       "lon" : "127.26136103031",
       "name" : "세종 도램마을 10단지",
       "stateTypeText" : "운영중",
@@ -7390,7 +7390,7 @@
       "zipcode" : "30123",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "36.4955050217996",
-      "serialNumber" : "187",
+      "serialNumber" : "123187",
       "lon" : "127.250482489197",
       "name" : "세종 가온마을 8단지",
       "stateTypeText" : "운영중",
@@ -7414,7 +7414,7 @@
       "zipcode" : "30152",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "36.4743956778034",
-      "serialNumber" : "186",
+      "serialNumber" : "123186",
       "lon" : "127.273426261442",
       "name" : "세종 숲바람수변공원 주차장입구",
       "stateTypeText" : "운영중",
@@ -7438,7 +7438,7 @@
       "zipcode" : "30150",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "36.481885",
-      "serialNumber" : "185",
+      "serialNumber" : "123185",
       "lon" : "127.291397",
       "name" : "세종 마루공원 주차장입구",
       "stateTypeText" : "운영중",
@@ -7462,7 +7462,7 @@
       "zipcode" : "06230",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "37.4940231208839",
-      "serialNumber" : "184",
+      "serialNumber" : "123184",
       "lon" : "127.045261303984",
       "name" : "서울 EV모빌리티",
       "stateTypeText" : "운영중",
@@ -7486,7 +7486,7 @@
       "zipcode" : "42824",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "35.82375",
-      "serialNumber" : "179",
+      "serialNumber" : "123179",
       "lon" : "128.54679",
       "name" : "생각대로 송현지점",
       "stateTypeText" : "운영중",
@@ -7503,7 +7503,7 @@
       "zipcode" : "42922",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "35.875747",
-      "serialNumber" : "175",
+      "serialNumber" : "123175",
       "lon" : "128.473217",
       "name" : "바이크뱅크 세천물류",
       "stateTypeText" : "운영중",
@@ -7527,7 +7527,7 @@
       "zipcode" : "13515",
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "lat" : "37.4070017835767",
-      "serialNumber" : "172",
+      "serialNumber" : "123172",
       "lon" : "127.140094625833",
       "name" : "야탑수리점",
       "stateTypeText" : "운영중",
@@ -7559,7 +7559,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "navigationBit" : "Y",
       "lat" : "37.50308",
-      "serialNumber" : "171",
+      "serialNumber" : "123171",
       "stateTypeText" : "운영중",
       "state" : "1",
       "releaseDate" : ""
@@ -7583,7 +7583,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "navigationBit" : "Y",
       "lat" : "37.54593",
-      "serialNumber" : "169",
+      "serialNumber" : "123169",
       "stateTypeText" : "운영중",
       "state" : "1",
       "releaseDate" : ""
@@ -7600,7 +7600,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "navigationBit" : "Y",
       "lat" : "36.479912",
-      "serialNumber" : "160",
+      "serialNumber" : "123160",
       "stateTypeText" : "운영중",
       "state" : "1",
       "releaseDate" : ""
@@ -7624,7 +7624,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "navigationBit" : "Y",
       "lat" : "36.486980287824416",
-      "serialNumber" : "159",
+      "serialNumber" : "123159",
       "stateTypeText" : "운영중",
       "state" : "1",
       "releaseDate" : ""
@@ -7648,7 +7648,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "navigationBit" : "Y",
       "lat" : "36.519246",
-      "serialNumber" : "158",
+      "serialNumber" : "123158",
       "stateTypeText" : "운영중",
       "state" : "1",
       "releaseDate" : ""
@@ -7672,7 +7672,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "navigationBit" : "Y",
       "lat" : "36.6085226",
-      "serialNumber" : "157",
+      "serialNumber" : "123157",
       "stateTypeText" : "운영중",
       "state" : "1",
       "releaseDate" : ""
@@ -7696,7 +7696,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "navigationBit" : "Y",
       "lat" : "36.4928432283709",
-      "serialNumber" : "156",
+      "serialNumber" : "123156",
       "stateTypeText" : "운영중",
       "state" : "1",
       "releaseDate" : "2025-07-26T00:00:00.000Z"
@@ -7713,7 +7713,7 @@
       "defaultImgUrl" : "https:\/\/gf.dotstation.kr\/gogoro_station\/0\/basic_07f4807c90fff9f88dc6a833a12dcaac.jpg",
       "navigationBit" : "Y",
       "lat" : "35.85066608249908",
-      "serialNumber" : "155",
+      "serialNumber" : "123155",
       "stateTypeText" : "운영중",
       "state" : "1",
       "releaseDate" : ""
